@@ -21,15 +21,9 @@
   - [Utils](#utils)
 - [Resources](#resources)
   - [Official](#official-resources)
-  - [External](#external-resources)
-  - [Community](#community)
-  - [Conferences](#conferences)
-    - [Conference Videos from PyVideo.org](#conference-videos-from-pyvideoorg)
-  - [Meetups](#meetups)
   - [Podcasts](#podcasts)
   - [Tutorials](#tutorials)
-  - [Courses](#courses)
-  - [Books](#books)
+  - [Talks](#talks)
   - [Videos](#videos)
 - [Hosting](#hosting)
   - [PaaS](#paas)
@@ -48,15 +42,15 @@
 ### Auth
 
 - [FastAPI Auth](https://github.com/dmontagu/fastapi-auth) - Pluggable auth that supports the OAuth2 Password Flow with JWT access and refresh tokens
-- [FastAPI-Login](https://flask-login.readthedocs.io/) - Account management and authentication (based on [Flask-Login](https://github.com/maxcountryman/flask-login))
-- [FastAPI-Permissions](https://github.com/holgi/fastapi-permissions) - Row-level permissions
+- [FastAPI Login](https://flask-login.readthedocs.io/) - Account management and authentication (based on [Flask-Login](https://github.com/maxcountryman/flask-login))
+- [FastAPI Permissions](https://github.com/holgi/fastapi-permissions) - Row-level permissions
 - [FastAPI Users](https://github.com/frankie567/fastapi-users) - Account management, authentication, authorization
 
 ### Databases
 
 #### ORMs
 
-- [FastAPI-SQLAlchemy](https://github.com/mfreeborn/fastapi-sqlalchemy) - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/)
+- [FastAPI SQLAlchemy](https://github.com/mfreeborn/fastapi-sqlalchemy) - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/)
 - [Tortoise ORM](https://tortoise.github.io/)
     - [FastAPI Example](https://tortoise-orm.readthedocs.io/en/latest/examples/fastapi.html)
     - [Tutorial: Setting up Tortoise ORM with FastAPI](https://robwagner.dev/tortoise-fastapi-setup/)
@@ -72,13 +66,13 @@
 ### Developer Tools
 
 - [FastAPI Client Generator](https://github.com/dmontagu/fastapi_client) - Generate a mypy- and IDE-friendly API client from an OpenAPI spec
-- [FastAPI-Versioning](https://github.com/DeanWay/fastapi-versioning) - API versioning
+- [FastAPI Versioning](https://github.com/DeanWay/fastapi-versioning) - API versioning
 - [Jupyter Notebook REST API](https://github.com/Invictify/Jupter-Notebook-REST-API) - run your Jupyter notebooks as RESTful API endpoints
 - [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) - automatic [MessagePack](https://msgpack.org/) content negotiation
 
 ### Email
 
-- [FastAPI-Mail](https://github.com/sabuhish/fastapi-mail) - lightweight mail system for sending emails and attachments (individual and bulk)
+- [FastAPI Mail](https://github.com/sabuhish/fastapi-mail) - lightweight mail system for sending emails and attachments (individual and bulk)
 
 ### Utils
 
