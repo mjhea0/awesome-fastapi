@@ -42,7 +42,7 @@
 ### Auth
 
 - [FastAPI Auth](https://github.com/dmontagu/fastapi-auth) - Pluggable auth that supports the OAuth2 Password Flow with JWT access and refresh tokens
-- [FastAPI Login](https://flask-login.readthedocs.io/) - Account management and authentication (based on [Flask-Login](https://github.com/maxcountryman/flask-login))
+- [FastAPI Login](https://github.com/MushroomMaula/fastapi_login) - Account management and authentication (based on [Flask-Login](https://github.com/maxcountryman/flask-login))
 - [FastAPI Permissions](https://github.com/holgi/fastapi-permissions) - Row-level permissions
 - [FastAPI Users](https://github.com/frankie567/fastapi-users) - Account management, authentication, authorization
 
