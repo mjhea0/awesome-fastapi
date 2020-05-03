@@ -169,6 +169,7 @@ Compute:
 ### Open Source Projects
 
 - [Bitcart](https://github.com/MrNaif2018/bitcart)
+- [Dispatch](https://github.com/Netflix/dispatch) - Manage security incidents
 - FastAPI CRUD Example:
   - [Async flavor](https://github.com/testdrivenio/fastapi-crud-async)
   - [Sync Flavor](https://github.com/testdrivenio/fastapi-crud-sync)
