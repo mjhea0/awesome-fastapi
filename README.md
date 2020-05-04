@@ -54,7 +54,7 @@
 - [Tortoise ORM](https://tortoise.github.io/)
     - [FastAPI Example](https://tortoise-orm.readthedocs.io/en/latest/examples/fastapi.html)
     - [Tutorial: Setting up Tortoise ORM with FastAPI](https://robwagner.dev/tortoise-fastapi-setup/)
-- [GINO](https://github.com/python-gino/gino) a lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio
+- [GINO](https://github.com/python-gino/gino) - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio
     - [FastAPI Example](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 - [ORM](https://github.com/encode/orm) - An async ORM
 
