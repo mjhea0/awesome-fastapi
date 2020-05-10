@@ -184,6 +184,7 @@ Compute:
 - [Mailer](https://github.com/rclement/mailer) - Dead-simple mailer micro-service for static websites
 - [RealWorld Example App](https://github.com/nsidnev/fastapi-realworld-example-app)
 - [redis-streams-fastapi-chat](https://github.com/leonh/redis-streams-fastapi-chat)
+- [Sprites as a service](https://github.com/ljvmiranda921/sprites-as-a-service) - Generate your personal 8-bit avatars using Cellular Automata
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API
 - [TermPair](https://github.com/cs01/termpair)
 
