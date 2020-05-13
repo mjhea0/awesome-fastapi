@@ -120,6 +120,7 @@
 
 - [Building a Stock Screener with FastAPI](https://www.youtube.com/watch?v=5GorMC2lPpk)
 - [Building Web APIs Using FastAPI](https://www.youtube.com/watch?v=Pe66M8mn-wA)
+- [FastAPI - A Web Framework for Python](https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS)
 - [Serving Machine Learning Models As API with FastAPI](https://www.youtube.com/watch?v=mkDxuRvKUL8)
 
 ## Hosting
