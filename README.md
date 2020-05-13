@@ -45,6 +45,7 @@
 - [FastAPI Login](https://github.com/MushroomMaula/fastapi_login) - Account management and authentication (based on [Flask-Login](https://github.com/maxcountryman/flask-login))
 - [FastAPI Permissions](https://github.com/holgi/fastapi-permissions) - Row-level permissions
 - [FastAPI Users](https://github.com/frankie567/fastapi-users) - Account management, authentication, authorization
+- [fastapi-security](https://github.com/jmagnusson/fastapi-security) - Implements authentication and authorization as dependencies in FastAPI
 
 ### Databases
 
