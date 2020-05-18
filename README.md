@@ -64,6 +64,11 @@
 - [asyncpgsa](https://github.com/CanopyTax/asyncpgsa) - A wrapper around [asyncpg](https://github.com/MagicStack/asyncpg) for use with [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/)
 - [Databases](https://github.com/encode/databases) - Async SQL query builder that works on top of the [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/) expression language
 
+#### ODMs
+
+- [MongoEngine](http://mongoengine.org/)
+- [Motor](https://motor.readthedocs.io/) - Asynchronous Python driver for MongoDB
+
 #### Other Tools
 
 - [Pydantic-SQLAlchemy](https://github.com/tiangolo/pydantic-sqlalchemy) - Convert SQLAlchemy models to [Pydantic](https://pydantic-docs.helpmanual.io/) models
@@ -186,7 +191,8 @@ Compute:
 - [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery)
 - [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc)
 - [Mailer](https://github.com/rclement/mailer) - Dead-simple mailer micro-service for static websites
-- [RealWorld Example App](https://github.com/nsidnev/fastapi-realworld-example-app)
+- [RealWorld Example App - mongo](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
+- [RealWorld Example App - postgres](https://github.com/nsidnev/fastapi-realworld-example-app)
 - [redis-streams-fastapi-chat](https://github.com/leonh/redis-streams-fastapi-chat)
 - [Sprites as a service](https://github.com/ljvmiranda921/sprites-as-a-service) - Generate your personal 8-bit avatars using Cellular Automata
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API
