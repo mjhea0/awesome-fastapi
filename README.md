@@ -1,6 +1,7 @@
+<!--lint disable awesome-list-item-->
+
 <div align="center">
   <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge-flat.svg" /></a>
-  <a href="https://travis-ci.org/mjhea0/awesome-fastapi"><img src="https://api.travis-ci.org/mjhea0/awesome-fastapi.svg?branch=master" alt="Build Status" /></a></p>
   <a href="https://twitter.com/intent/tweet?text=Awesome%20FastAPI%20-%20a%20curated%20list%20of%20awesome%20things%20related%20to%20FastAPI%20https%3A//github.com/mjhea0/awesome-fastapi%20%23webdev">Share on Twitter</a>
   <br /><br />
   <img width="400" src="fastapi-logo.png" alt="FastAPI logo">
@@ -20,16 +21,17 @@
   - [Email](#email)
   - [Utils](#utils)
 - [Resources](#resources)
-  - [Official](#official-resources)
+  - [Official Resources](#official-resources)
   - [Podcasts](#podcasts)
   - [Tutorials](#tutorials)
   - [Talks](#talks)
   - [Videos](#videos)
+  - [Courses](#courses)
 - [Hosting](#hosting)
   - [PaaS](#paas)
   - [IaaS](#iaas)
   - [Serverless](#serverless)
-- [Projects](#Projects)
+- [Projects](#projects)
   - [Boilerplate](#boilerplate)
   - [Open Source Projects](#open-source-projects)
 
@@ -53,10 +55,10 @@
 
 - [FastAPI SQLAlchemy](https://github.com/mfreeborn/fastapi-sqlalchemy) - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/)
 - [Tortoise ORM](https://tortoise.github.io/)
-    - [FastAPI Example](https://tortoise-orm.readthedocs.io/en/latest/examples/fastapi.html)
-    - [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
+  - [FastAPI Example](https://tortoise-orm.readthedocs.io/en/latest/examples/fastapi.html)
+  - [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
 - [GINO](https://github.com/python-gino/gino) - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio
-    - [FastAPI Example](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
+  - [FastAPI Example](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 - [ORM](https://github.com/encode/orm) - An async ORM
 
 #### Query Builders
@@ -82,7 +84,7 @@
 
 ### Email
 
-- [FastAPI Mail](https://github.com/sabuhish/fastapi-mail) - lightweight mail system for sending emails and attachments (individual and bulk)
+- [FastAPI Mail](https://github.com/marlin-dev/fastapi-mail) - lightweight mail system for sending emails and attachments (individual and bulk)
 
 ### Utils
 
@@ -92,8 +94,8 @@
 - [FastAPI Utilities](https://github.com/dmontagu/fastapi-utils) - Reusable utilities: class-based views, response inferring router, periodic tasks, timing middleware, SQLAlchemy session, OpenAPI spec simplification
 - [Prerender Python Starlette](https://github.com/BeeMyDesk/prerender-python-starlette) - Starlette middleware for Prerender
 - [SlowApi](https://github.com/laurents/slowapi) - Rate limiter (based on [Flask-Limiter](https://flask-limiter.readthedocs.io))
-- [Starlette Prometheus](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
-- [Starlette Exporter](https://github.com/stephenhillier/starlette_exporter) - One more prometheus integration for FastAPI and Starlette.
+- [Starlette Prometheus](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette
+- [Starlette Exporter](https://github.com/stephenhillier/starlette_exporter) - One more prometheus integration for FastAPI and Starlette
 
 ## Resources
 
@@ -101,7 +103,7 @@
 
 - [Documentation](https://fastapi.tiangolo.com/) - Comprehensive documentation
 - [Tutorial](https://fastapi.tiangolo.com/tutorial/)
-- [Source Code](https://github.com/tiangolo/fastapi) - Hosted on Github
+- [Source Code](https://github.com/tiangolo/fastapi) - Hosted on GitHub
 - [Gitter Chat](https://gitter.im/tiangolo/fastapi)
 
 ### Podcasts
@@ -130,6 +132,10 @@
 - [Building Web APIs Using FastAPI](https://www.youtube.com/watch?v=Pe66M8mn-wA)
 - [FastAPI - A Web Framework for Python](https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS)
 - [Serving Machine Learning Models As API with FastAPI](https://www.youtube.com/watch?v=mkDxuRvKUL8)
+
+### Courses
+
+- [Test-Driven Development with FastAPI and Docker](https://testdriven.io/courses/tdd-fastapi/) -Learn how to build, test, and deploy a text summarization microservice with Python, FastAPI, and Docker.
 
 ## Hosting
 
@@ -204,4 +210,4 @@ Compute:
 
 <br>
 
-> **NOTE**: This project is powered by **[TestDriven.io](https://testdriven.io/)**. Please support this open source project by purchasing one of our courses.
+> **NOTE**: This project is powered by **[TestDriven.io](https://testdriven.io/)**. Please support this open source project by purchasing our FastAPI course: [Test-Driven Development with FastAPI and Docker](https://testdriven.io/courses/tdd-fastapi/).

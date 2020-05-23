@@ -1,4 +1,14 @@
-language: ruby
-rvm: 2.4.1
-before_script: gem install awesome_bot
-script: awesome_bot README.md --allow 302 --allow-dupe
+language: node_js
+node_js:
+  - 'node'
+
+before_install:
+  - rvm install 2.4.1
+
+install:
+  - npm install --global awesome-lint
+  - gem install awesome_bot
+
+script:
+  - awesome-lint README.md
+  - awesome_bot README.md --allow 302 --allow-ssl --allow-dupe
