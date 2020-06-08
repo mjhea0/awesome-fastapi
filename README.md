@@ -4,7 +4,7 @@
   <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge-flat.svg" /></a>
   <a href="https://twitter.com/intent/tweet?text=Awesome%20FastAPI%20-%20a%20curated%20list%20of%20awesome%20things%20related%20to%20FastAPI%20https%3A//github.com/mjhea0/awesome-fastapi%20%23webdev">Share on Twitter</a>
   <br /><br />
-  <img width="400" src="fastapi-logo.png" alt="FastAPI logo">
+  <a href="https://fastapi.tiangolo.com/"><img width="400" src="fastapi-logo.png" alt="FastAPI logo"></a>
 </div>
 
 # Awesome FastAPI
