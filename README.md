@@ -21,6 +21,7 @@
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [Podcasts](#podcasts)
+  - [Blog Posts](#blog-posts)
   - [Tutorials](#tutorials)
   - [Talks](#talks)
   - [Videos](#videos)
@@ -108,6 +109,10 @@
 
 - [Build The Next Generation Of Python Web Applications With FastAPI](https://www.pythonpodcast.com/fastapi-web-application-framework-episode-259/) - In this episode of [Podcast Init](https://www.pythonpodcast.com/), the create of FastAPI, [Sebastián Ramirez](https://tiangolo.com/), shares his motivations for building FastAPI and how it works under the hood.
 - [FastAPI on PythonBytes](https://pythonbytes.fm/episodes/show/123/time-to-right-the-py-wrongs?time_in_sec=855)
+
+### Blog Posts
+
+- [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679) - In depth look at why you may want to move from Flask to FastAPI.
 
 ### Tutorials
 
