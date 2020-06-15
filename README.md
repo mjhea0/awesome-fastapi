@@ -191,7 +191,7 @@ Compute:
 - [fastapi-gino-arq-uvicorn](https://github.com/leosussan/fastapi-gino-arq-uvicorn) - Tempate for a high-performance async REST API, in Python. FastAPI + GINO + Arq + Uvicorn (w/ Redis and PostgreSQL).
 - [FastAPI and React Template](https://github.com/Buuntu/fastapi-react) - Full stack cookiecutter boilerplate using FastAPI, Typescript, Docker, PostgreSQL, and React.
 - [FastAPI Nano](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
-- [FastAPI-Gino-Alembic](https://github.com/Turall/FastApi-boilerplate) - Boilerplate for RestApi on FastApi with gino and alembic configuration
+- [FastAPI-Gino-Alembic](https://github.com/Turall/FastApi-boilerplate) - Boilerplate for RestApi on FastApi with gino and alembic configuration.
 
 
 ### Open Source Projects
