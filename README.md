@@ -193,7 +193,6 @@ Compute:
 - [FastAPI Nano](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
 - [FastAPI-Gino-Alembic](https://github.com/Turall/FastApi-boilerplate) - Boilerplate for RestApi on FastApi with gino and alembic configuration.
 
-
 ### Open Source Projects
 
 - [Bitcart](https://github.com/MrNaif2018/bitcart)
