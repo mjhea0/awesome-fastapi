@@ -1,11 +1,4 @@
-<div align="center">
-  <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge-flat.svg" /></a>
-  <a href="https://twitter.com/intent/tweet?text=Awesome%20FastAPI%20-%20a%20curated%20list%20of%20awesome%20things%20related%20to%20FastAPI%20https%3A//github.com/mjhea0/awesome-fastapi%20%23webdev">Share on Twitter</a>
-  <br /><br />
-  <a href="https://fastapi.tiangolo.com/"><img width="400" src="fastapi-logo.png" alt="FastAPI logo"></a>
-</div>
-
-# Awesome FastAPI
+# Awesome FastAPI [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to [FastAPI](https://fastapi.tiangolo.com/).
 
@@ -53,8 +46,8 @@
 #### ORMs
 
 - [FastAPI SQLAlchemy](https://github.com/mfreeborn/fastapi-sqlalchemy) - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/).
-- [Tortoise ORM](https://tortoise.github.io/)
-  - [FastAPI Example](https://tortoise-orm.readthedocs.io/en/latest/examples/fastapi.html)
+- [Tortoise ORM](https://tortoise.github.io/) - An easy-to-use asyncio ORM (Object Relational Mapper) inspired by Django.
+  - [FastAPI Example](https://tortoise-orm.readthedocs.io/en/latest/examples/fastapi.html) - An example of the Tortoise-ORM FastAPI integration.
   - [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
   - [Aerich](https://github.com/long2ice/aerich) - Tortoise ORM migrations tools.
 - [GINO](https://github.com/python-gino/gino) - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
@@ -68,7 +61,7 @@
 
 #### ODMs
 
-- [MongoEngine](http://mongoengine.org/)
+- [MongoEngine](http://mongoengine.org/) - A Document-Object Mapper (think ORM, but for document databases) for working with MongoDB from Python.
 - [Motor](https://motor.readthedocs.io/) - Asynchronous Python driver for MongoDB.
 
 #### Other Tools
@@ -80,7 +73,7 @@
 - [FastAPI Client Generator](https://github.com/dmontagu/fastapi_client) - Generate a mypy- and IDE-friendly API client from an OpenAPI spec.
 - [FastAPI Versioning](https://github.com/DeanWay/fastapi-versioning) - API versioning.
 - [Jupyter Notebook REST API](https://github.com/Invictify/Jupter-Notebook-REST-API) - Run your Jupyter notebooks as RESTful API endpoints.
-- [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) - automatic [MessagePack](https://msgpack.org/) content negotiation.
+- [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) - Automatic [MessagePack](https://msgpack.org/) content negotiation.
 
 ### Email
 
@@ -102,40 +95,40 @@
 ### Official Resources
 
 - [Documentation](https://fastapi.tiangolo.com/) - Comprehensive documentation.
-- [Tutorial](https://fastapi.tiangolo.com/tutorial/)
+- [Tutorial](https://fastapi.tiangolo.com/tutorial/) - Official tutorial showing you how to use FastAPI with most of its features, step by step.
 - [Source Code](https://github.com/tiangolo/fastapi) - Hosted on GitHub.
-- [Gitter Chat](https://gitter.im/tiangolo/fastapi)
+- [Gitter Chat](https://gitter.im/tiangolo/fastapi) - Chat with other FastAPI users.
 
 ### Podcasts
 
 - [Build The Next Generation Of Python Web Applications With FastAPI](https://www.pythonpodcast.com/fastapi-web-application-framework-episode-259/) - In this episode of [Podcast Init](https://www.pythonpodcast.com/), the create of FastAPI, [Sebastián Ramirez](https://tiangolo.com/), shares his motivations for building FastAPI and how it works under the hood.
-- [FastAPI on PythonBytes](https://pythonbytes.fm/episodes/show/123/time-to-right-the-py-wrongs?time_in_sec=855)
+- [FastAPI on PythonBytes](https://pythonbytes.fm/episodes/show/123/time-to-right-the-py-wrongs?time_in_sec=855) - Nice overview of the project.
 
 ### Blog Posts
 
-- [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679) - In depth look at why you may want to move from Flask to FastAPI.
+- [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679) - In-depth look at why you may want to move from Flask to FastAPI.
 
 ### Tutorials
 
-- [Demystifying Authentication with FastAPI and a Frontend](https://www.strio.co/blog/authentication-guide-with-fastapi/)
-- [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/)
-- [Deploying Iris Classifications with FastAPI and Docker](https://towardsdatascience.com/deploying-iris-classifications-with-fastapi-and-docker-7c9b83fdec3a)
-- [How to deploy your ConvNet classifier with Keras and FastAPI](https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/)
-- [Introduction to the FastAPI Python Framework](https://www.errietta.me/blog/python-fastapi-intro/)
-- [Porting Flask to FastAPI for ML Model Serving](https://www.pluralsight.com/tech-blog/porting-flask-to-fastapi-for-ml-model-serving/)
-- [Serving Machine Learning Models with FastAPI in Python](https://medium.com/@8B_EC/tutorial-serving-machine-learning-models-with-fastapi-in-python-c1a27319c459)
+- [Demystifying Authentication with FastAPI and a Frontend](https://www.strio.co/blog/authentication-guide-with-fastapi/) - Add token-based authentication.
+- [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/) - Develop and test an asynchronous API with FastAPI, Postgres, Pytest, and Docker using Test-Driven Development.
+- [Deploying Iris Classifications with FastAPI and Docker](https://towardsdatascience.com/deploying-iris-classifications-with-fastapi-and-docker-7c9b83fdec3a) - Dockerizing a FastAPI application.
+- [How to deploy your ConvNet classifier with Keras and FastAPI](https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/) - Deploy a machine learning model via a web-based API.
+- [Introduction to the FastAPI Python Framework](https://www.errietta.me/blog/python-fastapi-intro/) - Quick intro to FastAPI.
+- [Porting Flask to FastAPI for ML Model Serving](https://www.pluralsight.com/tech-blog/porting-flask-to-fastapi-for-ml-model-serving/) - Comparison of Flask vs FastAPI.
+- [Serving Machine Learning Models with FastAPI in Python](https://medium.com/@8B_EC/tutorial-serving-machine-learning-models-with-fastapi-in-python-c1a27319c459) - Use FastAPI to quickly and easily deploy and serve machine learning models in Python as a RESTful API.
 
 ### Talks
 
-- [PyConBY 2020: Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)
-- [PyCon UK 2019: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)
+- [PyConBY 2020: Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8) - From the talk by Sebastian Ramirez you will learn how to easily build a production-ready web (JSON) API for your ML models with FastAPI, including best practices by default.
+- [PyCon UK 2019: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA) - This talk shows how to build a simple REST API for a database from the ground up using FastAPI.
 
 ### Videos
 
-- [Building a Stock Screener with FastAPI](https://www.youtube.com/watch?v=5GorMC2lPpk)
-- [Building Web APIs Using FastAPI](https://www.youtube.com/watch?v=Pe66M8mn-wA)
-- [FastAPI - A Web Framework for Python](https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS)
-- [Serving Machine Learning Models As API with FastAPI](https://www.youtube.com/watch?v=mkDxuRvKUL8)
+- [Building a Stock Screener with FastAPI](https://www.youtube.com/watch?v=5GorMC2lPpk) - A you build a web-based stock screener with FastAPI, you'll be introduced to many of FastAPI's features, including pydantic models, dependency injection, background tasks, and SQLAlchemy integration.
+- [Building Web APIs Using FastAPI](https://www.youtube.com/watch?v=Pe66M8mn-wA) - Use FastAPI to build a web application programming interface (RESTful API).
+- [FastAPI - A Web Framework for Python](https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS) - See how to do numeric validations with FastAPI.
+- [Serving Machine Learning Models As API with FastAPI](https://www.youtube.com/watch?v=mkDxuRvKUL8) - Build a machine learning API with FastAPI.
 
 ### Courses
 
@@ -182,34 +175,34 @@ Compute:
 ### Boilerplate
 
 - [Full Stack FastAPI and PostgreSQL - Base Project Generator](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator, which includes FastAPI, PostgreSQL, Docker, Celery, Vue frontend, automatic HTTPS and more (developed by the creator of FastAPI, [Sebastián Ramírez](https://github.com/tiangolo)).
-- [FastAPI and Tortoise ORM](https://github.com/prostomarkeloff/fastapi-tortoise)
+- [FastAPI and Tortoise ORM](https://github.com/prostomarkeloff/fastapi-tortoise) - Powerful but simple template for web APIs w/ FastAPI (as web framework) and Tortoise-ORM (for working via database without headache).
 - [FastAPI Model Server Skeleton](https://github.com/eightBEC/fastapi-ml-skeleton) - Skeleton app to serve machine learning models production-ready.
 - [cookiecutter-spacy-fastapi](https://github.com/microsoft/cookiecutter-spacy-fastapi) - Quick deployments of spaCy models with FastAPI.
-- [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi)
+- [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutter template for FastAPI projects using: Machine Learning, Poetry, Azure Pipelines and pytest.
 - [openapi-python-client](https://github.com/triaxtec/openapi-python-client) - Generate modern FastAPI Python clients (via FastAPI) from OpenAPI.
 - [Pywork](https://github.com/vutran1710/YeomanPywork) - [Yeoman](https://yeoman.io/) generator to scaffold a FastAPI app.
 - [uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python 3.7 and 3.6 with performance auto-tuning.
 - [fastapi-gino-arq-uvicorn](https://github.com/leosussan/fastapi-gino-arq-uvicorn) - Tempate for a high-performance async REST API, in Python. FastAPI + GINO + Arq + Uvicorn (w/ Redis and PostgreSQL).
-- [FastAPI and React Template](https://github.com/Buuntu/fastapi-react) - Full stack cookiecutter boilerplate using FastAPI, Typescript, Docker, PostgreSQL, and React.
+- [FastAPI and React Template](https://github.com/Buuntu/fastapi-react) - Full stack cookiecutter boilerplate using FastAPI, TypeScript, Docker, PostgreSQL, and React.
 - [FastAPI Nano](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
 
 ### Open Source Projects
 
-- [Bitcart](https://github.com/MrNaif2018/bitcart)
+- [Bitcart](https://github.com/MrNaif2018/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
 - [Dispatch](https://github.com/Netflix/dispatch) - Manage security incidents.
 - FastAPI CRUD Example:
   - [Async flavor](https://github.com/testdrivenio/fastapi-crud-async)
   - [Sync Flavor](https://github.com/testdrivenio/fastapi-crud-sync)
-- [FastAPI Websocket Broadcast](https://github.com/cthwaite/fastapi-websocket-broadcast)
-- [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery)
-- [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc)
+- [FastAPI Websocket Broadcast](https://github.com/cthwaite/fastapi-websocket-broadcast) - Websocket 'broadcast' demo.
+- [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery) - Minimal example utilizing FastAPI and Celery with RabbitMQ for task queue, Redis for Celery backend, and Flower for monitoring the Celery tasks.
+- [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on FastAPI.
 - [Mailer](https://github.com/rclement/mailer) - Dead-simple mailer micro-service for static websites.
 - [RealWorld Example App - mongo](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
 - [RealWorld Example App - postgres](https://github.com/nsidnev/fastapi-realworld-example-app)
-- [redis-streams-fastapi-chat](https://github.com/leonh/redis-streams-fastapi-chat)
+- [redis-streams-fastapi-chat](https://github.com/leonh/redis-streams-fastapi-chat) - A simple Redis Streams backed chat app using Websockets, Asyncio and FastAPI/Starlette.
 - [Sprites as a service](https://github.com/ljvmiranda921/sprites-as-a-service) - Generate your personal 8-bit avatars using Cellular Automata.
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API.
-- [TermPair](https://github.com/cs01/termpair)
+- [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 
 ---
 
