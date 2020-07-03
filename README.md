@@ -1,6 +1,8 @@
 # Awesome FastAPI [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome things related to [FastAPI](https://fastapi.tiangolo.com/).
+> A curated list of awesome things related to FastAPI.
+
+[FastAPI](https://fastapi.tiangolo.com/) is a modern, high-performance, batteries-included Python web framework that's perfect for building RESTful APIs.
 
 ## Contents
 
