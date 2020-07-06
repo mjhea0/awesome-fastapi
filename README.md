@@ -69,6 +69,8 @@
 #### Other Tools
 
 - [Pydantic-SQLAlchemy](https://github.com/tiangolo/pydantic-sqlalchemy) - Convert SQLAlchemy models to [Pydantic](https://pydantic-docs.helpmanual.io/) models.
+- [FastAPI-Camelcase](https://ahmednafies.github.io/fastapi_camelcase/) - Camel case JSON support for FastAPI utilizing [Pydantic](https://pydantic-docs.helpmanual.io/).
+
 
 ### Developer Tools
 
