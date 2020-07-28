@@ -6,7 +6,7 @@ before_install:
   - rvm install 2.4.1
 
 install:
-  - npm install --global awesome-lint
+  - npm install --global awesome-lint@0.14.0
   - gem install awesome_bot
 
 script:
