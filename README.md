@@ -79,6 +79,7 @@
 - [FastAPI Versioning](https://github.com/DeanWay/fastapi-versioning) - API versioning.
 - [Jupyter Notebook REST API](https://github.com/Invictify/Jupter-Notebook-REST-API) - Run your Jupyter notebooks as RESTful API endpoints.
 - [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) - Automatic [MessagePack](https://msgpack.org/) content negotiation.
+- [Manage FastAPI](https://github.com/ycd/manage-fastapi) - Command-line project management tool for FastAPI. Generate projects Django-admin like . 
 
 ### Email
 
