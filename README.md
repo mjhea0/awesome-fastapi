@@ -148,7 +148,6 @@
 (Platforms-as-a-Service)
 
 - [Heroku](https://www.heroku.com/) ([Step-by-step tutorial](https://www.tutlinks.com/create-and-deploy-fastapi-app-to-heroku/), [ML model on Heroku tutorial](https://testdriven.io/blog/fastapi-machine-learning/))
-- [PythonAnywhere](https://www.pythonanywhere.com/details/flask_hosting)
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 - [Google App Engine](https://cloud.google.com/appengine/)
 - [Microsoft Azure App Service](https://azure.microsoft.com/services/app-service/)
