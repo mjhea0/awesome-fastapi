@@ -148,6 +148,7 @@
 (Platforms-as-a-Service)
 
 - [Heroku](https://www.heroku.com/)
+  - [Step-by-step](https://www.tutlinks.com/create-and-deploy-fastapi-app-to-heroku/)
 - [PythonAnywhere](https://www.pythonanywhere.com/details/flask_hosting)
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 - [Google App Engine](https://cloud.google.com/appengine/)
