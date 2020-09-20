@@ -11,4 +11,4 @@ install:
 
 script:
   - awesome-lint README.md
-  - awesome_bot README.md --allow 302 --allow-ssl --allow-dupe
+  - awesome_bot README.md --allow 302,307 --allow-ssl --allow-dupe

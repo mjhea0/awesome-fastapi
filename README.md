@@ -16,7 +16,7 @@
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [Podcasts](#podcasts)
-  - [Blog Posts](#blog-posts)
+  - [Articles](#articles)
   - [Tutorials](#tutorials)
   - [Talks](#talks)
   - [Videos](#videos)
@@ -51,7 +51,7 @@
 - [Tortoise ORM](https://tortoise.github.io/) - An easy-to-use asyncio ORM (Object Relational Mapper) inspired by Django.
   - [FastAPI Example](https://tortoise-orm.readthedocs.io/en/latest/examples/fastapi.html) - An example of the Tortoise-ORM FastAPI integration.
   - [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
-  - [Aerich](https://github.com/long2ice/aerich) - Tortoise ORM migrations tools.
+  - [Aerich](https://github.com/tortoise/aerich) - Tortoise ORM migrations tools.
 - [GINO](https://github.com/python-gino/gino) - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
   - [FastAPI Example](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 - [ORM](https://github.com/encode/orm) - An async ORM.
@@ -110,7 +110,7 @@
 - [Build The Next Generation Of Python Web Applications With FastAPI](https://www.pythonpodcast.com/fastapi-web-application-framework-episode-259/) - In this episode of [Podcast Init](https://www.pythonpodcast.com/), the create of FastAPI, [Sebastián Ramirez](https://tiangolo.com/), shares his motivations for building FastAPI and how it works under the hood.
 - [FastAPI on PythonBytes](https://pythonbytes.fm/episodes/show/123/time-to-right-the-py-wrongs?time_in_sec=855) - Nice overview of the project.
 
-### Blog Posts
+### Articles
 
 - [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679) - In-depth look at why you may want to move from Flask to FastAPI.
 
@@ -147,7 +147,7 @@
 
 (Platforms-as-a-Service)
 
-- [Heroku](https://www.heroku.com/)
+- [Heroku](https://www.heroku.com/) ([Step-by-step tutorial](https://www.tutlinks.com/create-and-deploy-fastapi-app-to-heroku/), [ML model on Heroku tutorial](https://testdriven.io/blog/fastapi-machine-learning/))
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 - [Google App Engine](https://cloud.google.com/appengine/)
 - [Microsoft Azure App Service](https://azure.microsoft.com/services/app-service/)
@@ -194,7 +194,7 @@ Compute:
 
 ### Open Source Projects
 
-- [Bitcart](https://github.com/MrNaif2018/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
+- [Bitcart](https://github.com/bitcartcc/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
 - [Dispatch](https://github.com/Netflix/dispatch) - Manage security incidents.
 - FastAPI CRUD Example:
   - [Async flavor](https://github.com/testdrivenio/fastapi-crud-async)
