@@ -42,6 +42,7 @@
 - [FastAPI Permissions](https://github.com/holgi/fastapi-permissions) - Row-level permissions.
 - [FastAPI Security](https://github.com/jmagnusson/fastapi-security) - Implements authentication and authorization as dependencies in FastAPI.
 - [FastAPI Users](https://github.com/frankie567/fastapi-users) - Account management, authentication, authorization.
+- [FastAPI Simple Security](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
 
 ### Databases
 
