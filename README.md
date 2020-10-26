@@ -197,6 +197,7 @@ Compute:
 
 ### Open Source Projects
 
+- [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 - [Bitcart](https://github.com/bitcartcc/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
 - [Dispatch](https://github.com/Netflix/dispatch) - Manage security incidents.
 - FastAPI CRUD Example:
