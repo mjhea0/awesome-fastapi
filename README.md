@@ -179,6 +179,10 @@ Compute:
 - [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
 - [Google Cloud Run](https://cloud.google.com/run) ([example](https://github.com/anthcor/cloudrun-fastapi))
 
+Integration:
+
+- [Mangum](https://github.com/jordaneremieff/mangum) - Mangum is an adapter for using ASGI applications with AWS Lambda & API Gateway.
+
 ## Projects
 
 ### Boilerplate
