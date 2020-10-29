@@ -43,6 +43,7 @@
 - [FastAPI Security](https://github.com/jmagnusson/fastapi-security) - Implements authentication and authorization as dependencies in FastAPI.
 - [FastAPI Simple Security](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
 - [FastAPI Users](https://github.com/frankie567/fastapi-users) - Account management, authentication, authorization.
+- [FastAPI JWT Auth](https://github.com/IndominusByte/fastapi-jwt-auth) - JWT authorization with a rich feature (based on [Flask-JWT-Extended](https://github.com/vimalloc/flask-jwt-extended))
 
 ### Databases
 
