@@ -168,9 +168,10 @@
 
 Frameworks:
 
-- [Zappa](https://github.com/Miserlou/Zappa)
 - [Chalice](https://github.com/aws/chalice)
+- [Mangum](https://mangum.io/) - Adapter for running ASGI applications with AWS Lambda and API Gateway.
 - [Vercel](https://vercel.com/) - (formerly Zeit) ([example](https://github.com/paul121/fastapi-zeit-now)).
+- [Zappa](https://github.com/Miserlou/Zappa)
 
 Compute:
 
@@ -178,10 +179,6 @@ Compute:
 - [Google Cloud Functions](https://cloud.google.com/functions/)
 - [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
 - [Google Cloud Run](https://cloud.google.com/run) ([example](https://github.com/anthcor/cloudrun-fastapi))
-
-Integration:
-
-- [Mangum](https://github.com/jordaneremieff/mangum) - Mangum is an adapter for using ASGI applications with AWS Lambda & API Gateway.
 
 ## Projects
 
