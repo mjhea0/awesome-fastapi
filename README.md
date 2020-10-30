@@ -152,7 +152,7 @@
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 - [Google App Engine](https://cloud.google.com/appengine/)
 - [Microsoft Azure App Service](https://azure.microsoft.com/services/app-service/)
-- [Deta](https://www.deta.sh/) – Deploy unlimited FastAPI apps in seconds for free. Inludes built-in DB and auth. [Tutorial](https://dev.to/athulcajay/fastapi-deta-ni5)
+- [Deta](https://www.deta.sh/) ([example](https://dev.to/athulcajay/fastapi-deta-ni5))
 
 ### IaaS
 
