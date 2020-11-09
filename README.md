@@ -59,7 +59,7 @@
 - [GINO](https://github.com/python-gino/gino) - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
   - [FastAPI Example](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 - [ORM](https://github.com/encode/orm) - An async ORM.
-- [ormar](https://collerek.github.io/ormar/fastapi/) - The ormar package is an async mini ORM for Python, with support for Postgres, MySQL, and SQLite.
+- [ormar](https://collerek.github.io/ormar/fastapi/) - An async mini ORM for Python.
 
 
 #### Query Builders
