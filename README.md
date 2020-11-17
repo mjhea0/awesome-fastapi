@@ -163,6 +163,7 @@
 - [Google Compute Engine](https://cloud.google.com/compute/)
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Linode](https://www.linode.com/)
+- [Deta](https://www.deta.sh/)
 
 ### Serverless
 
