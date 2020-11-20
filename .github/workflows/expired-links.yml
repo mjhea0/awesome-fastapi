@@ -4,7 +4,6 @@ on:
   push:
     branches:
     - master
-  pull_request:
   schedule:
   # Run every first day at 00:00 AM every month.
   - cron: "0 0 1 * *"
