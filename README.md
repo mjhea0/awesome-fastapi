@@ -14,6 +14,7 @@
   - [Databases](#databases)
   - [Developer Tools](#developer-tools)
   - [Email](#email)
+  - [MQTT](#mqtt)
   - [Utils](#utils)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
@@ -90,6 +91,10 @@
 ### Email
 
 - [FastAPI Mail](https://github.com/sabuhish/fastapi-mail) - Lightweight mail system for sending emails and attachments (individual and bulk).
+
+### MQTT
+
+- [FastAPI MQTT](https://github.com/sabuhish/fastapi-mqtt) - fastapi-mqtt is extension for MQTT protocol.
 
 ### Utils
 
