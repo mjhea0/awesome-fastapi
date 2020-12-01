@@ -94,7 +94,7 @@
 
 ### MQTT
 
-- [FastAPI MQTT](https://github.com/sabuhish/fastapi-mqtt) - fastapi-mqtt is extension for MQTT protocol.
+- [FastAPI MQTT](https://github.com/sabuhish/fastapi-mqtt) - An extension for the MQTT protocol.
 
 ### Utils
 
