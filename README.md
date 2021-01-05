@@ -95,7 +95,7 @@
 
 - [FastAPI Cache](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
 - [FastAPI Contrib](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities: pagination, auth middleware, permissions, custom exception handlers, MongoDB support, and Opentracing middleware.
-- [FastAPI CRUDROuter](https://github.com/awtkns/fastapi-crudrouter) - An FastAPI router that automatically creates and documents CRUD routes for your models.
+- [FastAPI CRUDROuter](https://github.com/awtkns/fastapi-crudrouter) - A FastAPI router that automatically creates and documents CRUD routes for your models.
 - [FastAPI Plugins](https://github.com/madkote/fastapi-plugins) - Redis and Scheduler plugins.
 - [FastAPI ServiceUtils](https://github.com/skallfass/fastapi_serviceutils) - Generator for creating API services.
 - [FastAPI SocketIO](https://github.com/pyropy/fastapi-socketio) - Easy integration for FastAPI and SocketIO.
