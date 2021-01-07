@@ -91,7 +91,6 @@
 
 - [FastAPI Mail](https://github.com/sabuhish/fastapi-mail) - Lightweight mail system for sending emails and attachments (individual and bulk).
 
-
 ### Utils
 
 - [FastAPI Cache](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
