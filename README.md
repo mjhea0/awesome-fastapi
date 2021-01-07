@@ -106,6 +106,7 @@
 - [Starlette Prometheus](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
 - [Starlette Exporter](https://github.com/stephenhillier/starlette_exporter) - One more prometheus integration for FastAPI and Starlette.
 - [Starlette-OpenTracing](https://github.com/acidjunk/starlette-opentracing) - Opentracing support for Starlette and FastAPI.
+- [starlette-context](https://github.com/tomwojcik/starlette-context) - Allows you to store and access the request data anywhere in your project, useful for logging.
 
 ## Resources
 
