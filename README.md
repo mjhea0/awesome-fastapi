@@ -14,7 +14,6 @@
   - [Databases](#databases)
   - [Developer Tools](#developer-tools)
   - [Email](#email)
-  - [MQTT](#mqtt)
   - [Utils](#utils)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
@@ -92,9 +91,6 @@
 
 - [FastAPI Mail](https://github.com/sabuhish/fastapi-mail) - Lightweight mail system for sending emails and attachments (individual and bulk).
 
-### MQTT
-
-- [FastAPI MQTT](https://github.com/sabuhish/fastapi-mqtt) - An extension for the MQTT protocol.
 
 ### Utils
 
@@ -108,6 +104,7 @@
 - [Starlette Prometheus](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
 - [Starlette Exporter](https://github.com/stephenhillier/starlette_exporter) - One more prometheus integration for FastAPI and Starlette.
 - [Starlette-OpenTracing](https://github.com/acidjunk/starlette-opentracing) - Opentracing support for Starlette and FastAPI.
+- [FastAPI MQTT](https://github.com/sabuhish/fastapi-mqtt) - An extension for the MQTT protocol.
 
 ## Resources
 
