@@ -18,6 +18,7 @@
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [Podcasts](#podcasts)
+  - [Publications](#publications)
   - [Articles](#articles)
   - [Tutorials](#tutorials)
   - [Talks](#talks)
@@ -122,6 +123,10 @@
 
 - [Build The Next Generation Of Python Web Applications With FastAPI](https://www.pythonpodcast.com/fastapi-web-application-framework-episode-259/) - In this episode of [Podcast Init](https://www.pythonpodcast.com/), the create of FastAPI, [Sebastián Ramirez](https://tiangolo.com/), shares his motivations for building FastAPI and how it works under the hood.
 - [FastAPI on PythonBytes](https://pythonbytes.fm/episodes/show/123/time-to-right-the-py-wrongs?time_in_sec=855) - Nice overview of the project.
+
+### Publications
+
+- [Medium FastAPI](https://medium.com/fastapi) - The central place for Medium posts about the high performance, easy to learn, fast to code, ready for production framework.
 
 ### Articles
 
