@@ -11,6 +11,7 @@
 - [Third-Party Extensions](#third-party-extensions)
   - [Admin](#admin)
   - [Auth](#auth)
+  - [Cloud native utils](#cloud-native-utils)
   - [Databases](#databases)
   - [Developer Tools](#developer-tools)
   - [Email](#email)
@@ -46,6 +47,10 @@
 - [FastAPI Security](https://github.com/jmagnusson/fastapi-security) - Implements authentication and authorization as dependencies in FastAPI.
 - [FastAPI Simple Security](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
 - [FastAPI Users](https://github.com/frankie567/fastapi-users) - Account management, authentication, authorization.
+
+### Cloud native utils
+
+- [pyctuator](https://github.com/SolarEdgeTech/pyctuator) - Pyctuator is a partial Python implementation of the Spring Actuator API and enables to monitor FastAPI applications using Spring Boot Admin.
 
 ### Databases
 
