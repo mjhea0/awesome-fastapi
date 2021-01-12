@@ -62,7 +62,7 @@
 - [ORM](https://github.com/encode/orm) - An async ORM.
 - [ormar](https://collerek.github.io/ormar/fastapi/) - An async mini ORM for Python.
 - [Piccolo](https://github.com/piccolo-orm/piccolo) - An async ORM and query builder, supporting Postgres and SQLite. Batteries included (migrations, security, etc).
-  - [FastAPI Examples](https://github.com/piccolo-orm/piccolo_examples).
+  - [FastAPI Examples](https://github.com/piccolo-orm/piccolo_examples) - Using FastAPI with Piccolo.
 
 
 #### Query Builders
