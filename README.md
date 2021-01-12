@@ -62,7 +62,7 @@
 - [ORM](https://github.com/encode/orm) - An async ORM.
 - [ormar](https://collerek.github.io/ormar/fastapi/) - An async mini ORM for Python.
 - [Piccolo](https://github.com/piccolo-orm/piccolo) - An async ORM and query builder, supporting Postgres and SQLite. Batteries included (migrations, security, etc).
-  - [FastAPI Examples](https://github.com/piccolo-orm/piccolo_examples)
+  - [FastAPI Examples](https://github.com/piccolo-orm/piccolo_examples).
 
 
 #### Query Builders
@@ -223,7 +223,7 @@ Compute:
 - [fastapi-gino-arq-uvicorn](https://github.com/leosussan/fastapi-gino-arq-uvicorn) - Tempate for a high-performance async REST API, in Python. FastAPI + GINO + Arq + Uvicorn (w/ Redis and PostgreSQL).
 - [FastAPI and React Template](https://github.com/Buuntu/fastapi-react) - Full stack cookiecutter boilerplate using FastAPI, TypeScript, Docker, PostgreSQL, and React.
 - [FastAPI Nano](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
-- [Piccolo](https://piccolo-orm.readthedocs.io/en/latest/piccolo/asgi/index.html) - Scaffold a FastAPI app with the Piccolo ORM using `piccolo asgi new`
+- [Piccolo](https://piccolo-orm.readthedocs.io/en/latest/piccolo/asgi/index.html) - Scaffold a FastAPI app with the Piccolo ORM using `piccolo asgi new`.
 
 ### Open Source Projects
 
