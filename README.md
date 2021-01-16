@@ -149,6 +149,7 @@
   - [Serverless Deployment](https://medium.com/fastapi/fastapi-microservice-serverless-deployment-41a6d21e5cb3) - About the current status of the compatibility between FastAPI and Kubernetes-native FaaS platforms.
 - [How to deploy your ConvNet classifier with Keras and FastAPI](https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/) - Deploy a machine learning model via a web-based API.
 - [How to monitor your FastAPI service](https://guitton.co/posts/fastapi-monitoring/) - Explains how to implement Application Performance Monitoring (APM) using OpenTelemetry and Datadog/Jaeger.
+- [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/) - FastAPI application and service structure for a more maintainable codebase.
 - [Introducing FARM Stack - FastAPI, React, and MongoDB](https://developer.mongodb.com/how-to/FARM-Stack-FastAPI-React-MongoDB/) - Getting started with a complete FastAPI web application stack.
 - [Introduction to the FastAPI Python Framework](https://www.errietta.me/blog/python-fastapi-intro/) - Quick intro to FastAPI.
 - [Porting Flask to FastAPI for ML Model Serving](https://www.pluralsight.com/tech-blog/porting-flask-to-fastapi-for-ml-model-serving/) - Comparison of Flask vs FastAPI.
