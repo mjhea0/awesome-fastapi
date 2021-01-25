@@ -177,6 +177,7 @@
 
 ### Courses
 
+- [Complete Backend (API) Development with Python A-Z](https://www.udemy.com/course/python-api-development/) - Learn how to build fast, secure and documented API with Python (FastAPI). Backend best practices, load balancers, stress tests etc.
 - [Test-Driven Development with FastAPI and Docker](https://testdriven.io/courses/tdd-fastapi/) - Learn how to build, test, and deploy a text summarization microservice with Python, FastAPI, and Docker.
 
 ## Hosting
