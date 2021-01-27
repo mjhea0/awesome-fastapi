@@ -177,7 +177,7 @@
 
 ### Courses
 
-- [Modern APIs with FastAPI and Python](https://training.talkpython.fm/courses/getting-started-with-fastapi)
+- [Modern APIs with FastAPI and Python](https://training.talkpython.fm/courses/getting-started-with-fastapi) - A course designed to get you creating new APIs running in the cloud with FastAPI quickly.
 - [Test-Driven Development with FastAPI and Docker](https://testdriven.io/courses/tdd-fastapi/) - Learn how to build, test, and deploy a text summarization microservice with Python, FastAPI, and Docker.
 
 ## Hosting
