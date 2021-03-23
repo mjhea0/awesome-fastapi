@@ -86,6 +86,7 @@
 
 ### Developer Tools
 
+- [FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator) - Create a FastAPI app from an OpenAPI file, enabling schema-driven development.
 - [FastAPI Client Generator](https://github.com/dmontagu/fastapi_client) - Generate a mypy- and IDE-friendly API client from an OpenAPI spec.
 - [FastAPI Profiler](https://github.com/sunhailin-Leo/fastapi_profiler) - A FastAPI Middleware of joerick/pyinstrument to check your service performance.
 - [FastAPI Versioning](https://github.com/DeanWay/fastapi-versioning) - API versioning.
