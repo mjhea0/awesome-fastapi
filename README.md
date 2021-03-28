@@ -176,6 +176,7 @@
 
 - [Building a Stock Screener with FastAPI](https://www.youtube.com/watch?v=5GorMC2lPpk) - A you build a web-based stock screener with FastAPI, you'll be introduced to many of FastAPI's features, including pydantic models, dependency injection, background tasks, and SQLAlchemy integration.
 - [Building Web APIs Using FastAPI](https://www.youtube.com/watch?v=Pe66M8mn-wA) - Use FastAPI to build a web application programming interface (RESTful API).
+- [Create and deploy simple Blog API](https://m.youtube.com/playlist?list=PL_9Bx_sxJkROtrlVTsGiuu-NtO_BmUfkB) - This is a begginers playlist Tutorial about FastAPI.You'll learn how to use database, PostgreSQL, alembic migration tools , status code and exception handling, SQLAlchemy, how to upload file, how to use cloudinary as a cloud based service, pydantic validator, ForeignKey and relationship, Email & DateTime Field and how to deploy application on heroku.
 - [FastAPI - A Web Framework for Python](https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS) - See how to do numeric validations with FastAPI.
 - [FastAPI vs. Django vs. Flask](https://www.youtube.com/watch?v=9YBAOYQOzWs) - Which framework is best for Python in 2020? Which uses async/await the best? Which is the fastest? 
 - [Serving Machine Learning Models As API with FastAPI](https://www.youtube.com/watch?v=mkDxuRvKUL8) - Build a machine learning API with FastAPI.
