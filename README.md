@@ -65,6 +65,7 @@
 - [Piccolo](https://github.com/piccolo-orm/piccolo) - An async ORM and query builder, supporting Postgres and SQLite, with batteries (migrations, security, etc).
   - [FastAPI Examples](https://github.com/piccolo-orm/piccolo_examples) - Using FastAPI with Piccolo.
   - [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) - A powerful and modern admin GUI, using the Piccolo ORM.
+- [FastAPIwee](https://github.com/Ignisor/FastAPIwee) - A simple way to create REST API based on [PeeWee](https://github.com/coleifer/peewee) models.
 
 
 #### Query Builders
