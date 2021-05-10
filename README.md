@@ -37,6 +37,7 @@
 ### Admin
 
 - [FastAPI Admin](https://github.com/long2ice/fastapi-admin) - Functional admin panel that provides a user interface for performing CRUD operations on your data.
+- [Pyctuator](https://github.com/SolarEdgeTech/pyctuator) - Monitor and admin FastAPI applications using Spring Boot Admin's web UI.
 
 ### Auth
 
