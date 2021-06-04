@@ -36,7 +36,7 @@
 
 ### Admin
 
-- [FastAPI Admin](https://github.com/long2ice/fastapi-admin) - Functional admin panel that provides a user interface for performing CRUD operations on your data.
+- [FastAPI Admin](https://github.com/fastapi-admin/fastapi-admin) - Functional admin panel that provides a user interface for performing CRUD operations on your data.
 
 ### Auth
 
