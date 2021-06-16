@@ -96,6 +96,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports data and sc
 - [Jupyter Notebook REST API](https://github.com/Invictify/Jupter-Notebook-REST-API) - Run your Jupyter notebooks as RESTful API endpoints.
 - [Manage FastAPI](https://github.com/ycd/manage-fastapi) - CLI tool for generating and managing FastAPI projects.
 - [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) - Automatic [MessagePack](https://msgpack.org/) content negotiation.
+- [Ganimede](https://github.com/manugraj/ganimede) - A developer/production storage and safe-execution environment to store, version, edit, upgrade and integrate Jupyter notebooks.
 
 ### Email
 
