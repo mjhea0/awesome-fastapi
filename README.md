@@ -1,6 +1,6 @@
 <!--lint disable double-link-->
 
-# Awesome FastAPI [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
+# Awesome FastAPI | [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to FastAPI.
 
@@ -8,7 +8,7 @@
 
 ## Contents
 
-- [Awesome FastAPI ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-fastapi-)
+- [Awesome FastAPI](#awesome-fastapi--)
   - [Contents](#contents)
   - [Third-Party Extensions](#third-party-extensions)
     - [Admin](#admin)
