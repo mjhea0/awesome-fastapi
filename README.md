@@ -8,29 +8,35 @@
 
 ## Contents
 
-- [Third-Party Extensions](#third-party-extensions)
-  - [Admin](#admin)
-  - [Auth](#auth)
-  - [Databases](#databases)
-  - [Developer Tools](#developer-tools)
-  - [Email](#email)
-  - [Utils](#utils)
-- [Resources](#resources)
-  - [Official Resources](#official-resources)
-  - [External Resources](#external-resources)
-  - [Podcasts](#podcasts)
-  - [Articles](#articles)
-  - [Tutorials](#tutorials)
-  - [Talks](#talks)
-  - [Videos](#videos)
-  - [Courses](#courses)
-- [Hosting](#hosting)
-  - [PaaS](#paas)
-  - [IaaS](#iaas)
-  - [Serverless](#serverless)
-- [Projects](#projects)
-  - [Boilerplate](#boilerplate)
-  - [Open Source Projects](#open-source-projects)
+- [Awesome FastAPI ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-fastapi-)
+  - [Contents](#contents)
+  - [Third-Party Extensions](#third-party-extensions)
+    - [Admin](#admin)
+    - [Auth](#auth)
+    - [Databases](#databases)
+      - [ORMs](#orms)
+      - [Query Builders](#query-builders)
+      - [ODMs](#odms)
+      - [Other Tools](#other-tools)
+    - [Developer Tools](#developer-tools)
+    - [Email](#email)
+    - [Utils](#utils)
+  - [Resources](#resources)
+    - [Official Resources](#official-resources)
+    - [External Resources](#external-resources)
+    - [Podcasts](#podcasts)
+    - [Articles](#articles)
+    - [Tutorials](#tutorials)
+    - [Talks](#talks)
+    - [Videos](#videos)
+    - [Courses](#courses)
+  - [Hosting](#hosting)
+    - [PaaS](#paas)
+    - [IaaS](#iaas)
+    - [Serverless](#serverless)
+  - [Projects](#projects)
+    - [Boilerplate](#boilerplate)
+    - [Open Source Projects](#open-source-projects)
 
 ## Third-Party Extensions
 
@@ -175,6 +181,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports data and sc
 - [Serving Machine Learning Models with FastAPI in Python](https://medium.com/@8B_EC/tutorial-serving-machine-learning-models-with-fastapi-in-python-c1a27319c459) - Use FastAPI to quickly and easily deploy and serve machine learning models in Python as a RESTful API.
 - [Streaming video with FastAPI](https://stribny.name/blog/fastapi-video/) - Learn how to serve video streams.
 - [Using Hypothesis and Schemathesis to Test FastAPI](https://testdriven.io/blog/fastapi-hypothesis/) - Apply property-based testing to FastAPI.
+- [Build and Secure an API in Python with FastAPI](https://blog.yezz.me/blog/Build-and-Secure-an-API-in-Python-with-FastAPI) - Secure and maintain an API based on FastApi & SQLAlchemy.
 
 ### Talks
 
@@ -270,6 +277,9 @@ Compute:
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API.
 - [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 - [Universities](https://github.com/ycd/universities) -  API service for obtaining information about +9600 universities worldwide.
+- [DogeAPI](https://github.com/yezz123/DogeAPI) -  API with high performance to create a simple blog and Crud with OAuth2PasswordBearer.
+- [JeffQL](https://github.com/yezz123/JeffQL/) - Simple authentication & Login API using GraphQL and JWT.
+
 ---
 
 <br>
