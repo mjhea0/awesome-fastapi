@@ -1,6 +1,6 @@
 <!--lint disable double-link-->
 
-# Awesome FastAPI [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
+# Awesome FastAPI | [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to FastAPI.
 
@@ -152,6 +152,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports data and sc
 ### Tutorials
 
 - [Async SQLAlchemy with FastAPI](https://stribny.name/blog/fastapi-asyncalchemy/) - Learn how to use SQLAlchemy asynchronously.
+- [Build and Secure an API in Python with FastAPI](https://blog.yezz.me/blog/Build-and-Secure-an-API-in-Python-with-FastAPI) - Secure and maintain an API based on FastAPI and SQLAlchemy.
 - [Demystifying Authentication with FastAPI and a Frontend](https://kernelpanic.io/demystifying-authentication-with-fastapi-and-a-frontend/) - Add token-based authentication.
 - [Deploy a Dockerized FastAPI App to Google Cloud Platform](https://towardsdatascience.com/deploy-a-dockerized-fastapi-app-to-google-cloud-platform-24f72266c7ef) - A short guide to deploying a Dockerized Python app to Google Cloud Platform using Cloud Run and a SQL instance.
 - [Deploy Machine Learning Models with Keras, FastAPI, Redis and Docker](https://medium.com/analytics-vidhya/deploy-machine-learning-models-with-keras-fastapi-redis-and-docker-4940df614ece)
@@ -258,8 +259,10 @@ Compute:
 - FastAPI CRUD Example:
   - [Async flavor](https://github.com/testdrivenio/fastapi-crud-async)
   - [Sync Flavor](https://github.com/testdrivenio/fastapi-crud-sync)
+- [DogeAPI](https://github.com/yezz123/DogeAPI) - API with high performance to create a simple blog and CRUD with OAuth2PasswordBearer.
 - [FastAPI Websocket Broadcast](https://github.com/cthwaite/fastapi-websocket-broadcast) - Websocket 'broadcast' demo.
 - [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery) - Minimal example utilizing FastAPI and Celery with RabbitMQ for task queue, Redis for Celery backend, and Flower for monitoring the Celery tasks.
+- [JeffQL](https://github.com/yezz123/JeffQL/) - Simple authentication and login API using GraphQL and JWT.
 - [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on FastAPI.
 - [Mailer](https://github.com/rclement/mailer) - Dead-simple mailer micro-service for static websites.
 - [OPAL (Open Policy Administration Layer)](https://github.com/authorizon/opal) - Real-time authorization updates on top of Open-Policy; built with FastAPI, Typer, and FastAPI WebSocket pub/sub.
@@ -270,6 +273,7 @@ Compute:
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API.
 - [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 - [Universities](https://github.com/ycd/universities) -  API service for obtaining information about +9600 universities worldwide.
+
 ---
 
 <br>
