@@ -41,6 +41,7 @@
 ### Auth
 
 - [FastAPI Auth](https://github.com/dmontagu/fastapi-auth) - Pluggable auth that supports the OAuth2 Password Flow with JWT access and refresh tokens.
+- [FastAPI Azure auth](https://github.com/Intility/fastapi-azure-auth) - Azure AD authentication for your FastAPI.
 - [FastAPI Cloud Auth](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
 - [FastAPI Login](https://github.com/MushroomMaula/fastapi_login) - Account management and authentication (based on [Flask-Login](https://github.com/maxcountryman/flask-login)).
 - [FastAPI JWT Auth](https://github.com/IndominusByte/fastapi-jwt-auth) - JWT auth (based on [Flask-JWT-Extended](https://github.com/vimalloc/flask-jwt-extended)).
@@ -168,7 +169,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports data and sc
 - [How to deploy your ConvNet classifier with Keras and FastAPI](https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/) - Deploy a machine learning model via a web-based API.
 - [How to monitor your FastAPI service](https://guitton.co/posts/fastapi-monitoring/) - Explains how to implement Application Performance Monitoring (APM) using OpenTelemetry and Datadog/Jaeger.
 - [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/) - FastAPI application and service structure for a more maintainable codebase.
-- [Introducing FARM Stack - FastAPI, React, and MongoDB](https://developer.mongodb.com/how-to/FARM-Stack-FastAPI-React-MongoDB/) - Getting started with a complete FastAPI web application stack.
+- [Introducing FARM Stack - FastAPI, React, and MongoDB](https://www.mongodb.com/developer/how-to/FARM-Stack-FastAPI-React-MongoDB/) - Getting started with a complete FastAPI web application stack.
 - [Introduction to the FastAPI Python Framework](https://www.errietta.me/blog/python-fastapi-intro/) - Quick intro to FastAPI.
 - [Porting Flask to FastAPI for ML Model Serving](https://www.pluralsight.com/tech-blog/porting-flask-to-fastapi-for-ml-model-serving/) - Comparison of Flask vs FastAPI.
 - [Real-time data streaming using FastAPI and WebSockets](https://stribny.name/blog/2020/07/real-time-data-streaming-using-fastapi-and-websockets/) - Learn how to stream data from FastAPI directly into a real-time chart.
