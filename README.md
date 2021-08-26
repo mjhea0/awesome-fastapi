@@ -69,6 +69,7 @@
   - [FastAPI Example](https://tortoise-orm.readthedocs.io/en/latest/examples/fastapi.html) - An example of the Tortoise-ORM FastAPI integration.
   - [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
   - [Aerich](https://tortoise-orm.readthedocs.io/en/latest/migration.html) - Tortoise ORM migrations tools.
+- [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel is a library for interacting with SQL databases from Python code, with Python objects.
 
 #### Query Builders
 
