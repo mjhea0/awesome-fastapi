@@ -257,6 +257,7 @@ Compute:
 
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 - [Bitcart](https://github.com/bitcartcc/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
+- [Bunnybook](https://github.com/pietrobassi/bunnybook) - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
 - [Coronavirus-tg-api](https://github.com/egbakou/coronavirus-tg-api) - API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak.
 - [Dispatch](https://github.com/Netflix/dispatch) - Manage security incidents.
 - FastAPI CRUD Example:
