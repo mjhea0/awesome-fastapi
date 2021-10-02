@@ -8,30 +8,36 @@
 
 ## Contents
 
-- [Third-Party Extensions](#third-party-extensions)
-  - [Admin](#admin)
-  - [Auth](#auth)
-  - [Databases](#databases)
-  - [Developer Tools](#developer-tools)
-  - [Email](#email)
-  - [Utils](#utils)
-- [Resources](#resources)
-  - [Official Resources](#official-resources)
-  - [External Resources](#external-resources)
-  - [Podcasts](#podcasts)
-  - [Articles](#articles)
-  - [Tutorials](#tutorials)
-  - [Talks](#talks)
-  - [Videos](#videos)
-  - [Courses](#courses)
-- [Hosting](#hosting)
-  - [PaaS](#paas)
-  - [IaaS](#iaas)
-  - [Serverless](#serverless)
-- [Projects](#projects)
-  - [Boilerplate](#boilerplate)
-  - [Open Source Projects](#open-source-projects)
-- [Sponsors](#sponsors)
+- [Awesome FastAPI | ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-fastapi--)
+  - [Contents](#contents)
+  - [Third-Party Extensions](#third-party-extensions)
+    - [Admin](#admin)
+    - [Auth](#auth)
+    - [Databases](#databases)
+      - [ORMs](#orms)
+      - [Query Builders](#query-builders)
+      - [ODMs](#odms)
+      - [Other Tools](#other-tools)
+    - [Developer Tools](#developer-tools)
+    - [Email](#email)
+    - [Utils](#utils)
+  - [Resources](#resources)
+    - [Official Resources](#official-resources)
+    - [External Resources](#external-resources)
+    - [Podcasts](#podcasts)
+    - [Articles](#articles)
+    - [Tutorials](#tutorials)
+    - [Talks](#talks)
+    - [Videos](#videos)
+    - [Courses](#courses)
+  - [Hosting](#hosting)
+    - [PaaS](#paas)
+    - [IaaS](#iaas)
+    - [Serverless](#serverless)
+  - [Projects](#projects)
+    - [Boilerplate](#boilerplate)
+    - [Open Source Projects](#open-source-projects)
+  - [Sponsors](#sponsors)
 
 ## Third-Party Extensions
 
@@ -110,6 +116,7 @@
 - [FastAPI Contrib](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities: pagination, auth middleware, permissions, custom exception handlers, MongoDB support, and Opentracing middleware.
 - [FastAPI CRUDRouter](https://github.com/awtkns/fastapi-crudrouter) - A FastAPI router that automatically creates and documents CRUD routes for your models.
 - [FastAPI Jinja](https://github.com/AGeekInside/fastapi-jinja) - Adds integration of the Jinja template language to FastAPI.
+- [FastAPI Lazy](https://github.com/yezz123/fastapi-lazy) - Generate models & auth & Database Connection or cache (Redis).
 - [FastAPI Limiter](https://github.com/long2ice/fastapi-limiter) - A request rate limiter for FastAPI.
 - [FastAPI MQTT](https://github.com/sabuhish/fastapi-mqtt) - An extension for the MQTT protocol.
 - [FastAPI Pagination](https://github.com/uriyyo/fastapi-pagination) - Pagination for FastAPI.
