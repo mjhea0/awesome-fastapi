@@ -253,6 +253,7 @@ Compute:
 - [FastAPI Nano](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
 - [inboard](https://github.com/br3ndonland/inboard) - Docker images to power your FastAPI apps and help you ship faster.
 - [FastAPI template](https://github.com/s3rius/FastAPI-template) - Flexible, lightweight FastAPI project generator. It includes support for SQLAlchemy, multiple databases, CI/CD, Docker, and Kubernetes.
+- [fastapi-mvc-template](https://github.com/rszamszur/fastapi-mvc-template) - Template for high performance applications. Based on MVC architectural pattern, WSGI + ASGI. Includes tests, pipeline, base utilities, Helm chart, and script for bootstrapping local Minikube with high available Redis cluster.
 
 ### Open Source Projects
 
