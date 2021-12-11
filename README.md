@@ -230,7 +230,6 @@ Frameworks:
 - [Chalice](https://github.com/aws/chalice)
 - [Mangum](https://mangum.io/) - Adapter for running ASGI applications with AWS Lambda and API Gateway.
 - [Vercel](https://vercel.com/) - (formerly Zeit) ([example](https://github.com/paul121/fastapi-zeit-now)).
-- [Zappa](https://github.com/Miserlou/Zappa)
 
 Compute:
 
