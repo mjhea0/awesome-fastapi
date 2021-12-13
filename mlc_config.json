@@ -1,7 +1,0 @@
-{
-  "ignorePatterns": [
-    {
-      "pattern": "^https://www.linode.com/"
-    }
-  ]
-}
