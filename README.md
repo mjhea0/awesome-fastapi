@@ -143,7 +143,7 @@
 - [Documentation](https://fastapi.tiangolo.com/) - Comprehensive documentation.
 - [Tutorial](https://fastapi.tiangolo.com/tutorial/) - Official tutorial showing you how to use FastAPI with most of its features, step by step.
 - [Source Code](https://github.com/tiangolo/fastapi) - Hosted on GitHub.
-- [Gitter Chat](https://gitter.im/tiangolo/fastapi) - Chat with other FastAPI users.
+- [Discord](https://discord.com/invite/VQjSZaeJmf) - Chat with other FastAPI users.
 
 ### External Resources
 
