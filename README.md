@@ -121,6 +121,7 @@
 - [FastAPI Lazy](https://github.com/yezz123/fastapi-lazy) - Lazy package to start your project using FastAPI.
 - [FastAPI Limiter](https://github.com/long2ice/fastapi-limiter) - A request rate limiter for FastAPI.
 - [FastAPI MQTT](https://github.com/sabuhish/fastapi-mqtt) - An extension for the MQTT protocol.
+- [FastAPI Opentracing](https://github.com/wesdu/fastapi-opentracing) - Opentracing middleware and database tracing support for FastAPI.
 - [FastAPI Pagination](https://github.com/uriyyo/fastapi-pagination) - Pagination for FastAPI.
 - [FastAPI Plugins](https://github.com/madkote/fastapi-plugins) - Redis and Scheduler plugins.
 - [FastAPI ServiceUtils](https://github.com/skallfass/fastapi_serviceutils) - Generator for creating API services.
