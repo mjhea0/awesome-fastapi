@@ -293,6 +293,7 @@ Compute:
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API.
 - [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 - [Universities](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
+- [Gibbs](https://github.com/astariul/gibbs) - Easily scale your ML workers behind a FastAPI app across processes and machines.
 
 ## Sponsors
 
