@@ -260,8 +260,8 @@ Compute:
 - [FastAPI and React Template](https://github.com/Buuntu/fastapi-react) - Full stack cookiecutter boilerplate using FastAPI, TypeScript, Docker, PostgreSQL, and React.
 - [FastAPI Nano](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
 - [FastAPI template](https://github.com/s3rius/FastAPI-template) - Flexible, lightweight FastAPI project generator. It includes support for SQLAlchemy, multiple databases, CI/CD, Docker, and Kubernetes.
-- [FastAPI on Google Cloud Run](https://github.com/anthonycorletti/cloudrun-fastapi) Boilerplate for effective API building with FastAPI, SQLModel, and Google Cloud Run.
-- [FastAPI with Firestore](https://github.com/anthonycorletti/firestore-fastapi) Boilerplate for effective API building with FastAPI and Google Cloud Firestore.
+- [FastAPI on Google Cloud Run](https://github.com/anthonycorletti/cloudrun-fastapi) - Boilerplate for API building with FastAPI, SQLModel, and Google Cloud Run.
+- [FastAPI with Firestore](https://github.com/anthonycorletti/firestore-fastapi) - Boilerplate for API building with FastAPI and Google Cloud Firestore.
 
 ### Docker Images
 
