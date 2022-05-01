@@ -272,7 +272,7 @@ Compute:
 
 ### Open Source Projects
 
-- [Astrobase](https://github.com/astrobase/astrobase) – Simple, fast, and secure deployments anywhere.
+- [Astrobase](https://github.com/astrobase/astrobase) - Simple, fast, and secure deployments anywhere.
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 - [Bitcart](https://github.com/bitcartcc/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
 - [Bunnybook](https://github.com/pietrobassi/bunnybook) - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
