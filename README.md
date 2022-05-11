@@ -103,6 +103,7 @@
 - [Jupyter Notebook REST API](https://github.com/Invictify/Jupter-Notebook-REST-API) - Run your Jupyter notebooks as RESTful API endpoints.
 - [Manage FastAPI](https://github.com/ycd/manage-fastapi) - CLI tool for generating and managing FastAPI projects.
 - [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) - Automatic [MessagePack](https://msgpack.org/) content negotiation.
+- [manage-fastapi](https://github.com/ycd/manage-fastapi) - 🚀 CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
 
 ### Email
 
