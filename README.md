@@ -299,6 +299,7 @@ Compute:
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API.
 - [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 - [Universities](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
+- [FastAPI with Observability](https://github.com/Blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics..
 
 ## Sponsors
 
