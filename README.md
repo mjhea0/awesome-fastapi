@@ -271,6 +271,8 @@ Compute:
 - [uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python 3.7 and 3.6 with performance auto-tuning.
 - [uvicorn-gunicorn-poetry](https://github.com/max-pfeiffer/uvicorn-gunicorn-poetry) - This Docker image provides a platform to run FastAPI using Gunicorn with Uvicorn workers. It provides Poetry for managing dependencies and setting up a virtual environment in the container.
 - [uvicorn-poetry](https://github.com/max-pfeiffer/uvicorn-poetry) - This Docker image provides a platform to run FastAPI with Uvicorn on Kubernetes container orchestration system. It provides Poetry for managing dependencies and setting up a virtual environment in the container.
+- [Multi-Py Uvicorn](https://github.com/multi-py/python-uvicorn) - Docker image with Uvicorn. This image is a multi platform image supporting ARM, ARM64, and AMD64 (Intel) with all needed components precompiled. New versions available within four hours of uvicorn release.
+- [Multipy Gunicorn Uvicorn](https://github.com/multi-py/python-gunicorn-uvicorn) - Docker image with Uvicorn managed by Gunicorn. This image is a multi platform image supporting ARM, ARM64, and AMD64 (Intel) with all upstream components precompiled. It uses automation to build within hours of a new gunicorn release.
 
 ### Open Source Projects
 
