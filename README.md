@@ -214,7 +214,8 @@
 
 ### Books
 
-- [Building Python Web APIs with FastAPI](https://www.packtpub.com/product/building-web-apis-with-fastapi-and-python/9781801076630) - First book about FastAPI.
+- [Building Data Science Applications with FastAPI](https://www.packtpub.com/product/building-data-science-applications-with-fastapi/9781801079211) - With this book, you’ll be able to create fast and reliable data science API backends using practical examples.
+- [Building Python Web APIs with FastAPI](https://www.packtpub.com/product/building-web-apis-with-fastapi-and-python/9781801076630) - This book will show you how FastAPI, a high-performance web framework for building RESTful APIs in Python, allows you to build robust web APIs that are simple and intuitive and makes it easy to build quickly with very little boilerplate code.
 
 ## Hosting
 
