@@ -140,6 +140,7 @@
 - [Starlette OpenTracing](https://github.com/acidjunk/starlette-opentracing) - Opentracing support for Starlette and FastAPI.
 - [Starlette Prometheus](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
 - [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses.
+- [FastAPI ExtViews](https://github.com/BilalAlpaslan/fastapi-extviews) - FastAPI class based views library.
 
 ## Resources
 
