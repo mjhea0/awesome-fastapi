@@ -24,6 +24,7 @@
   - [Talks](#talks)
   - [Videos](#videos)
   - [Courses](#courses)
+  - [Best Practices](#best-practices)
 - [Hosting](#hosting)
   - [PaaS](#paas)
   - [IaaS](#iaas)
@@ -211,13 +212,17 @@
 - [Full Web Apps with FastAPI Course](https://training.talkpython.fm/courses/full-html-web-applications-with-fastapi) - You'll learn to build full web apps with FastAPI, equivalent to what you can do with Flask or Django.
 - [The Definitive Guide to Celery and FastAPI](https://testdriven.io/courses/fastapi-celery/) - Learn how to add Celery to a FastAPI application to provide asynchronous task processing.
 
+### Best Practices
+
+- [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices) - Collection of best practices in a GitHub repo.
+
 ## Hosting
 
 ### PaaS
 
 (Platforms-as-a-Service)
 
-- [Heroku](https://www.heroku.com/) ([Step-by-step tutorial](https://www.tutlinks.com/create-and-deploy-fastapi-app-to-heroku/), [ML model on Heroku tutorial](https://testdriven.io/blog/fastapi-machine-learning/))
+- [Heroku](https://www.heroku.com/) ([Step-by-step tutorial](https://tutlinks.com/create-and-deploy-fastapi-app-to-heroku/), [ML model on Heroku tutorial](https://testdriven.io/blog/fastapi-machine-learning/))
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 - [Google App Engine](https://cloud.google.com/appengine/)
 - [Microsoft Azure App Service](https://azure.microsoft.com/en-us/services/app-service/)
