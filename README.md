@@ -24,6 +24,7 @@
   - [Talks](#talks)
   - [Videos](#videos)
   - [Courses](#courses)
+  - [Books](#books)
 - [Hosting](#hosting)
   - [PaaS](#paas)
   - [IaaS](#iaas)
@@ -210,6 +211,11 @@
 - [Modern APIs with FastAPI and Python](https://training.talkpython.fm/courses/getting-started-with-fastapi) - A course designed to get you creating new APIs running in the cloud with FastAPI quickly.
 - [Full Web Apps with FastAPI Course](https://training.talkpython.fm/courses/full-html-web-applications-with-fastapi) - You'll learn to build full web apps with FastAPI, equivalent to what you can do with Flask or Django.
 - [The Definitive Guide to Celery and FastAPI](https://testdriven.io/courses/fastapi-celery/) - Learn how to add Celery to a FastAPI application to provide asynchronous task processing.
+
+### Books
+
+- [Building Data Science Applications with FastAPI](https://www.packtpub.com/product/building-data-science-applications-with-fastapi/9781801079211) - With this book, you will be able to create fast and reliable data science API backends using practical examples.
+- [Building Python Web APIs with FastAPI](https://www.packtpub.com/product/building-web-apis-with-fastapi-and-python/9781801076630) - This book will show you how FastAPI, a high-performance web framework for building RESTful APIs in Python, allows you to build robust web APIs that are simple and intuitive and makes it easy to build quickly with very little boilerplate code.
 
 ## Hosting
 
