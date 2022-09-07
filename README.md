@@ -24,6 +24,7 @@
   - [Talks](#talks)
   - [Videos](#videos)
   - [Courses](#courses)
+  - [Best Practices](#best-practices)
 - [Hosting](#hosting)
   - [PaaS](#paas)
   - [IaaS](#iaas)
@@ -210,6 +211,10 @@
 - [Modern APIs with FastAPI and Python](https://training.talkpython.fm/courses/getting-started-with-fastapi) - A course designed to get you creating new APIs running in the cloud with FastAPI quickly.
 - [Full Web Apps with FastAPI Course](https://training.talkpython.fm/courses/full-html-web-applications-with-fastapi) - You'll learn to build full web apps with FastAPI, equivalent to what you can do with Flask or Django.
 - [The Definitive Guide to Celery and FastAPI](https://testdriven.io/courses/fastapi-celery/) - Learn how to add Celery to a FastAPI application to provide asynchronous task processing.
+
+### Best Practices
+
+- [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices) - Collection of best practices in a GitHub repo.
 
 ## Hosting
 
