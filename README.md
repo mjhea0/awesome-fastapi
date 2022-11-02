@@ -61,6 +61,7 @@
 #### ORMs
 
 - [FastAPI SQLAlchemy](https://github.com/mfreeborn/fastapi-sqlalchemy) - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/).
+- [Fastapi-SQLA](https://github.com/dialoguemd/fastapi-sqla) - SQLAlchemy extension for FastAPI with support for pagination, asyncio, and pytest.
 - [FastAPIwee](https://github.com/Ignisor/FastAPIwee) - A simple way to create REST API based on [PeeWee](https://github.com/coleifer/peewee) models.
 - [GINO](https://github.com/python-gino/gino) - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
   - [FastAPI Example](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
