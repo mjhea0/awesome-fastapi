@@ -24,6 +24,7 @@
   - [Talks](#talks)
   - [Videos](#videos)
   - [Courses](#courses)
+  - [Best Practices](#best-practices)
 - [Hosting](#hosting)
   - [PaaS](#paas)
   - [IaaS](#iaas)
@@ -60,6 +61,7 @@
 #### ORMs
 
 - [FastAPI SQLAlchemy](https://github.com/mfreeborn/fastapi-sqlalchemy) - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/).
+- [Fastapi-SQLA](https://github.com/dialoguemd/fastapi-sqla) - SQLAlchemy extension for FastAPI with support for pagination, asyncio, and pytest.
 - [FastAPIwee](https://github.com/Ignisor/FastAPIwee) - A simple way to create REST API based on [PeeWee](https://github.com/coleifer/peewee) models.
 - [GINO](https://github.com/python-gino/gino) - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
   - [FastAPI Example](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
@@ -98,7 +100,7 @@
 
 - [FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator) - Create a FastAPI app from an OpenAPI file, enabling schema-driven development.
 - [FastAPI Client Generator](https://github.com/dmontagu/fastapi_client) - Generate a mypy- and IDE-friendly API client from an OpenAPI spec.
-- [FastAPI MVC](https://github.com/rszamszur/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
+- [FastAPI MVC](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
 - [FastAPI Profiler](https://github.com/sunhailin-Leo/fastapi_profiler) - A FastAPI Middleware of joerick/pyinstrument to check your service performance.
 - [FastAPI Versioning](https://github.com/DeanWay/fastapi-versioning) - API versioning.
 - [Jupyter Notebook REST API](https://github.com/Invictify/Jupter-Notebook-REST-API) - Run your Jupyter notebooks as RESTful API endpoints.
@@ -162,7 +164,7 @@
 ### Articles
 
 - [FastAPI has Ruined Flask Forever for Me](https://towardsdatascience.com/fastapi-has-ruined-flask-forever-for-me-73916127da)
-- [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679) - In-depth look at why you may want to move from Flask to FastAPI.
+- [Why we switched from Flask to FastAPI for production machine learning](https://medium.com/@calebkaiser/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679) - In-depth look at why you may want to move from Flask to FastAPI.
 
 ### Tutorials
 
@@ -211,16 +213,20 @@
 - [Full Web Apps with FastAPI Course](https://training.talkpython.fm/courses/full-html-web-applications-with-fastapi) - You'll learn to build full web apps with FastAPI, equivalent to what you can do with Flask or Django.
 - [The Definitive Guide to Celery and FastAPI](https://testdriven.io/courses/fastapi-celery/) - Learn how to add Celery to a FastAPI application to provide asynchronous task processing.
 
+### Best Practices
+
+- [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices) - Collection of best practices in a GitHub repo.
+
 ## Hosting
 
 ### PaaS
 
 (Platforms-as-a-Service)
 
-- [Heroku](https://www.heroku.com/) ([Step-by-step tutorial](https://www.tutlinks.com/create-and-deploy-fastapi-app-to-heroku/), [ML model on Heroku tutorial](https://testdriven.io/blog/fastapi-machine-learning/))
+- [Heroku](https://www.heroku.com/) ([Step-by-step tutorial](https://tutlinks.com/create-and-deploy-fastapi-app-to-heroku/), [ML model on Heroku tutorial](https://testdriven.io/blog/fastapi-machine-learning/))
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 - [Google App Engine](https://cloud.google.com/appengine/)
-- [Microsoft Azure App Service](https://azure.microsoft.com/en-us/services/app-service/)
+- [Microsoft Azure App Service](https://azure.microsoft.com/en-us/products/app-service/)
 - [Deta](https://www.deta.sh/) ([example](https://dev.to/athulcajay/fastapi-deta-ni5))
 
 ### IaaS
@@ -244,7 +250,7 @@ Compute:
 
 - [AWS Lambda](https://aws.amazon.com/lambda/) ([tutorial](https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda), [code](https://github.com/iwpnd/fastapi-aws-lambda-example))
 - [Google Cloud Functions](https://cloud.google.com/functions/)
-- [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
+- [Azure Functions](https://azure.microsoft.com/en-us/products/functions/)
 - [Google Cloud Run](https://cloud.google.com/run) ([example](https://github.com/anthonycorletti/cloudrun-fastapi))
 
 ## Projects
@@ -265,6 +271,7 @@ Compute:
 - [FastAPI on Google Cloud Run](https://github.com/anthonycorletti/cloudrun-fastapi) - Boilerplate for API building with FastAPI, SQLModel, and Google Cloud Run.
 - [FastAPI with Firestore](https://github.com/anthonycorletti/firestore-fastapi) - Boilerplate for API building with FastAPI and Google Cloud Firestore.
 - [fastapi-alembic-sqlmodel-async](https://github.com/jonra1993/fastapi-alembic-sqlmodel-async) - This is a project template which uses FastAPI, Alembic, and async SQLModel as ORM.
+- [fastapi-starter-project](https://github.com/mirzadelic/fastapi-starter-project) - A project template which uses FastAPI, SQLModel, Alembic, Pytest, Docker, GitHub Actions CI.
 
 ### Docker Images
 
