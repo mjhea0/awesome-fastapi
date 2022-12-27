@@ -192,6 +192,7 @@
 - [Serving Machine Learning Models with FastAPI in Python](https://medium.com/@8B_EC/tutorial-serving-machine-learning-models-with-fastapi-in-python-c1a27319c459) - Use FastAPI to quickly and easily deploy and serve machine learning models in Python as a RESTful API.
 - [Streaming video with FastAPI](https://stribny.name/blog/fastapi-video/) - Learn how to serve video streams.
 - [Using Hypothesis and Schemathesis to Test FastAPI](https://testdriven.io/blog/fastapi-hypothesis/) - Apply property-based testing to FastAPI.
+- [REST API series with FastAPI and MongoDB](https://codevoweb.com/crud-restful-api-server-with-python-fastapi-and-mongodb/) - A Guide to Building a CRUD RESTful API Server with FastAPI and MongoDB.
 
 ### Talks
 
