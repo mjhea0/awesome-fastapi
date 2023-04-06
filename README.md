@@ -96,6 +96,8 @@
 - [Pydantic-SQLAlchemy](https://github.com/tiangolo/pydantic-sqlalchemy) - Convert SQLAlchemy models to [Pydantic](https://docs.pydantic.dev/) models.
 - [FastAPI-CamelCase](https://nf1s.github.io/fastapi-camelcase/) - CamelCase JSON support for FastAPI utilizing [Pydantic](https://docs.pydantic.dev/).
   - [CamelCase Models with FastAPI and Pydantic](https://medium.com/analytics-vidhya/camel-case-models-with-fast-api-and-pydantic-5a8acb6c0eee) - Accompanying blog post from the author of the extension.
+- [Pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A tiny tool to expand & resolve pydantic schema, and it plays pretty well with aiodataloader.
+  - [Full feature example](https://github.com/allmonday/pydantic-resolve/blob/master/examples/6_sqlalchemy_loaderdepend_global_filter.py)
 
 ### Developer Tools
 
