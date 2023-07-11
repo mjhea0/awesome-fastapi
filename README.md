@@ -249,7 +249,7 @@ Frameworks:
 
 Compute:
 
-- [AWS Lambda](https://aws.amazon.com/lambda/) ([tutorial](https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda), [code](https://github.com/iwpnd/fastapi-aws-lambda-example))
+- [AWS Lambda](https://aws.amazon.com/lambda/) ([example](https://github.com/iwpnd/fastapi-aws-lambda-example))
 - [Google Cloud Functions](https://cloud.google.com/functions/)
 - [Azure Functions](https://azure.microsoft.com/en-us/products/functions/)
 - [Google Cloud Run](https://cloud.google.com/run) ([example](https://github.com/anthonycorletti/cloudrun-fastapi))
