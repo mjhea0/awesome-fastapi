@@ -58,6 +58,7 @@
 - [FastAPI Security](https://github.com/jacobsvante/fastapi-security) - Implements authentication and authorization as dependencies in FastAPI.
 - [FastAPI Simple Security](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
 - [FastAPI Users](https://github.com/fastapi-users/fastapi-users) - Account management, authentication, authorization.
+- [FastAPI OAuth2](https://github.com/pysnippet/fastapi-oauth2) - Middleware-based social authentication mechanism supporting several OAuth providers (based on [social-core](https://github.com/python-social-auth/social-core) authentication backends).
 
 ### Databases
 
