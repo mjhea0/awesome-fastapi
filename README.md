@@ -117,6 +117,7 @@
 
 ### Utils
 
+- [Apitally](https://docs.apitally.io/frameworks/fastapi) - Simple traffic, error and response time monitoring plus API key and permission management for FastAPI applications.
 - [ASGI Correlation ID](https://github.com/snok/asgi-correlation-id) - Request ID logging middleware.
 - [FastAPI Cache](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
 - [FastAPI Cache](https://github.com/long2ice/fastapi-cache) - A tool to cache FastAPI response and function results, with support for Redis, Memcached, DynamoDB, and in-memory backends.
