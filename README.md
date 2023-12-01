@@ -45,7 +45,6 @@
 - [SQLAlchemy Admin](https://github.com/aminalaee/sqladmin) - Admin Panel for FastAPI/Starlette that works with SQLAlchemy models.
 - [Starlette Admin](https://github.com/jowilf/starlette-admin) - Admin framework for FastAPI/Starlette, supporting SQLAlchemy, SQLModel, MongoDB, and ODMantic.
 
-
 ### Auth
 
 - [AuthX](https://github.com/yezz123/AuthX) - Customizable Authentications and Oauth2 management for FastAPI.
@@ -57,6 +56,7 @@
 - [FastAPI Permissions](https://github.com/holgi/fastapi-permissions) - Row-level permissions.
 - [FastAPI Security](https://github.com/jacobsvante/fastapi-security) - Implements authentication and authorization as dependencies in FastAPI.
 - [FastAPI Simple Security](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
+- [FastAPI SQLModel Security](https://github.com/cwang/fastapi_sqlmodel_security) - A fork from [FastAPI Simple Security](https://github.com/mrtolkien/fastapi_simple_security) that uses any SQLAlchemy-supported database as API key storage which works better in a multiple-instance service setup.
 - [FastAPI Users](https://github.com/fastapi-users/fastapi-users) - Account management, authentication, authorization.
 
 ### Databases
