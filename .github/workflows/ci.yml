@@ -13,7 +13,7 @@ jobs:
           fetch-depth: 0
       - uses: actions/setup-node@v1
         with:
-          node-version: 15
+          node-version: 18
       - run: npm install --global awesome-lint
       - run: awesome-lint README.md
   awesome-bot:
