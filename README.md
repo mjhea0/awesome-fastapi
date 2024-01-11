@@ -44,7 +44,7 @@
 - [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) - A powerful and modern admin GUI, using the Piccolo ORM.
 - [SQLAlchemy Admin](https://github.com/aminalaee/sqladmin) - Admin Panel for FastAPI/Starlette that works with SQLAlchemy models.
 - [Starlette Admin](https://github.com/jowilf/starlette-admin) - Admin framework for FastAPI/Starlette, supporting SQLAlchemy, SQLModel, MongoDB, and ODMantic.
-- [fastapi_best_architecture](https://github.com/fastapi-practices/fastapi_best_architecture) - RBAC privilege control system with a unique pseudo-triple architectural model design.
+- [FastAPI_RBAC_Admin](https://github.com/fastapi-practices/fastapi_best_architecture) - RBAC privilege control system with a unique pseudo-triple architectural model design.
 
 
 ### Auth
