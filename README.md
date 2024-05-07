@@ -82,6 +82,7 @@
   - [Aerich](https://github.com/tortoise/aerich) - Tortoise ORM migrations tools.
 - [Saffier ORM](https://github.com/tarsil/saffier) - The only Python ORM you will ever need.
 - [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel (which is powered by Pydantic and SQLAlchemy) is a library for interacting with SQL databases from Python code, with Python objects.
+- [ESORM](https://github.com/wallneradam/esorm) - ElasticSearch ORM based on Pydantic, with extra FastAPI features
 
 #### Query Builders
 
