@@ -229,6 +229,7 @@
 - [Google App Engine](https://cloud.google.com/appengine/)
 - [Microsoft Azure App Service](https://azure.microsoft.com/en-us/products/app-service/)
 - [Deta](https://www.deta.sh/) ([example](https://dev.to/athulcajay/fastapi-deta-ni5))
+- [Fly](https://fly.io) - ([tutorial](https://fly.io/docs/python/frameworks/fastapi/), [Deploy from Git repo](https://github.com/fly-apps/hello-fastapi))
 
 ### IaaS
 
