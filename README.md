@@ -120,7 +120,7 @@
 
 ### Utils
 
-- [Apitally](https://github.com/apitally/apitally-py) - API analytics, monitoring and request logging for FastAPI.
+- [Apitally](https://github.com/apitally/apitally-py) - API analytics, monitoring, and request logging for FastAPI.
 - [ASGI Correlation ID](https://github.com/snok/asgi-correlation-id) - Request ID logging middleware.
 - [FastAPI Cache](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
 - [FastAPI Cache](https://github.com/long2ice/fastapi-cache) - A tool to cache FastAPI response and function results, with support for Redis, Memcached, DynamoDB, and in-memory backends.
