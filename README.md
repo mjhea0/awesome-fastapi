@@ -118,6 +118,7 @@
 ### Email
 
 - [FastAPI Mail](https://github.com/sabuhish/fastapi-mail) - Lightweight mail system for sending emails and attachments (individual and bulk).
+- [SMTP Sandbox](https://mailmug.net/) - Sandbox SMTP service to capture and debug emails in staging, development, and QA environments before sending them to production.
 
 ### Utils
 
