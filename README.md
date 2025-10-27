@@ -223,6 +223,7 @@
 ### Best Practices
 
 - [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices) - Collection of best practices in a GitHub repo.
+- [FastAPI Clean Architecture](https://github.com/faststream-community/fastapi-dishka-faststream) - Clean Architecture Implementation with FastAPI
 
 ## Hosting
 
