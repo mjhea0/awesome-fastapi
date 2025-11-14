@@ -50,6 +50,7 @@
 ### Auth
 
 - [AuthX](https://github.com/yezz123/AuthX) - Customizable Authentications and Oauth2 management for FastAPI.
+- [Axioms FastAPI](https://github.com/abhishektiwari/axioms-fastapi) - OAuth2/OIDC authentication and authorization for FastAPI. Supports authentication and claim-based fine-grained authorization (scopes, roles, permissions) using JWT tokens.
 - [FastAPI Auth](https://github.com/dmontagu/fastapi-auth) - Pluggable auth that supports the OAuth2 Password Flow with JWT access and refresh tokens.
 - [FastAPI Azure Auth](https://github.com/Intility/fastapi-azure-auth) - Azure AD authentication for your APIs with single and multi tenant support.
 - [FastAPI Cloud Auth](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
