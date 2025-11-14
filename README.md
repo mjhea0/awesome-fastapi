@@ -322,7 +322,8 @@ Compute:
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API.
 - [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 - [Universities](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
-
+- [Skyulf](https://github.com/flyingriverhorse/Skyulf) – An open-source MLOps web app for orchestrating data pipelines and model training workflows with react flow UI.
+  
 ## Sponsors
 
 Please support this open source project by checking out our sponsors:
