@@ -171,6 +171,7 @@
 ### External Resources
 
 - [TestDriven.io FastAPI](https://testdriven.io/blog/topics/fastapi/) - Multiple FastAPI-specific articles that focus on developing and testing production-ready RESTful APIs, serving up machine learning models, and more.
+- [Vedika API](https://vedika.io) - AI-powered Vedic astrology REST API.
 
 ### Podcasts
 
