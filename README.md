@@ -159,6 +159,10 @@
 - [Starlette Prometheus](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
 - [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses.
 
+## External APIs
+
+- [Vedika](https://vedika.io) - REST API for FastAPI - Vedic astrology calculations with AI chatbot. 108+ endpoints, 22 languages, 97% accuracy. Python/JavaScript SDKs with async support.
+
 ## Resources
 
 ### Official Resources
