@@ -322,6 +322,7 @@ Compute:
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API.
 - [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 - [Universities](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
+- [What Broke Today](https://whatbroke.today/) - AI-powered outage aggregator tracking 100+ cloud services, built with FastAPI. Features Telegram alerts, RSS feed, and JSON API.
 
 ## Sponsors
 
