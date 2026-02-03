@@ -117,6 +117,7 @@
 - [FastAPI Versioning](https://github.com/DeanWay/fastapi-versioning) - API versioning.
 - [Jupyter Notebook REST API](https://github.com/Invictify/Jupter-Notebook-REST-API) - Run your Jupyter notebooks as RESTful API endpoints.
 - [Manage FastAPI](https://github.com/ycd/manage-fastapi) - CLI tool for generating and managing FastAPI projects.
+- [MermaidTrace](https://github.com/xt765/mermaid-trace) - Visualize your FastAPI routes and execution logic as interactive Mermaid sequence diagrams.
 - [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) - Automatic [MessagePack](https://msgpack.org/) content negotiation.
 
 ### Email
