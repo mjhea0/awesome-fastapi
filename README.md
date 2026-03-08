@@ -65,6 +65,7 @@
 ### CyberSecurity
 
 - [FastAPI Guard](https://github.com/rennf93/fastapi-guard) - Rate Limiting, Automatically Ban IPs, Penetration Attack Detection, Whitelist/blacklist (countries, IPs, Cloud Providers), User Agent Filtering, Geolocation, Redis integration for persistence, and more.
+- [Sentinel AI](https://github.com/MaxwellCalkin/sentinel-ai) - Real-time LLM safety guardrails with a FastAPI server for prompt injection detection, PII redaction, toxicity filtering, and more, with SARIF output and sub-millisecond latency.
 
 ### Databases
 
