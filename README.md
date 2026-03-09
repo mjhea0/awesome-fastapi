@@ -327,6 +327,7 @@ Compute:
 - [RealWorld Example App - postgres](https://github.com/nsidnev/fastapi-realworld-example-app)
 - [redis-streams-fastapi-chat](https://github.com/leonh/redis-streams-fastapi-chat) - A simple Redis Streams backed chat app using Websockets, Asyncio and FastAPI/Starlette.
 - [Sprites as a service](https://github.com/ljvmiranda921/sprites-as-a-service) - Generate your personal 8-bit avatars using Cellular Automata.
+- [Satoshi API](https://github.com/Bortlesboat/bitcoin-api) - Bitcoin fee intelligence REST API with real-time streaming, tier-based auth, and MCP integration for AI agents.
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API.
 - [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 - [Universities](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
