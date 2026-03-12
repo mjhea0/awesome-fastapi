@@ -318,6 +318,7 @@ Compute:
 - [JeffQL](https://github.com/yezz123/JeffQL/) - Simple authentication and login API using GraphQL and JWT.
 - [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on FastAPI.
 - [Mailer](https://github.com/rclement/mailer) - Dead-simple mailer micro-service for static websites.
+- [Polymarket Scanner API](https://github.com/vesper-astrena/polymarket-scanner-api) - Real-time prediction market arbitrage detection API, scanning 12,000+ Polymarket markets for mispricings.
 - [Markdown-Videos](https://github.com/Snailedlt/Markdown-Videos) - API for generating thumbnails to embed into your markdown content.
 - [Nemo](https://github.com/harshitsinghai77/nemo-backend) - Be productive with Nemo.
 - [OPAL (Open Policy Administration Layer)](https://github.com/authorizon/opal) - Real-time authorization updates on top of Open-Policy; built with FastAPI, Typer, and FastAPI WebSocket pub/sub.
