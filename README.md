@@ -330,6 +330,7 @@ Compute:
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API.
 - [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 - [Universities](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
+- [Visura API](https://github.com/zornade/visura-api) - REST API for automated Italian cadastral property record extraction (visure catastali) from the SISTER portal, using Playwright for browser automation with SPID authentication.
 
 ## Sponsors
 
