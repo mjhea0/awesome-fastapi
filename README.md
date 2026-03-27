@@ -304,8 +304,8 @@ Compute:
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 - [Bitcart](https://github.com/bitcart/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
 - [Bali](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
+- [BillingWatch](https://github.com/rmbell09-lang/BillingWatch) - Self-hosted Stripe billing anomaly detector that catches webhook lag, silent billing lapses, and failed charge patterns with real-time alerting.
 - [Bunnybook](https://github.com/pietrobassi/bunnybook) - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
-- [BillingWatch](https://github.com/rmbell09-lang/BillingWatch) - Self-hosted billing anomaly detection built with FastAPI. Monitors API usage and costs, detects anomalies via rolling baselines, and provides a real-time dashboard with configurable alerts. MIT licensed.
 - [Coronavirus-tg-api](https://github.com/egbakou/coronavirus-tg-api) - API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak.
 - [Dispatch](https://github.com/Netflix/dispatch) - Manage security incidents.
 - FastAPI CRUD Example:
