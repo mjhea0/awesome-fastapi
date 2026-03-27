@@ -64,6 +64,7 @@
 
 ### CyberSecurity
 
+- [ContrastAPI](https://github.com/UPinar/contrastapi) - Security intelligence API with CVE lookup (340K+ CVEs, EPSS, CISA KEV), domain reconnaissance, and code security verification. MCP server support for AI agents.
 - [FastAPI Guard](https://github.com/rennf93/fastapi-guard) - Rate Limiting, Automatically Ban IPs, Penetration Attack Detection, Whitelist/blacklist (countries, IPs, Cloud Providers), User Agent Filtering, Geolocation, Redis integration for persistence, and more.
 
 ### Databases
