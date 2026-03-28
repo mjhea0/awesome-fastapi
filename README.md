@@ -307,6 +307,7 @@ Compute:
 - [Bunnybook](https://github.com/pietrobassi/bunnybook) - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
 - [Coronavirus-tg-api](https://github.com/egbakou/coronavirus-tg-api) - API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak.
 - [Dispatch](https://github.com/Netflix/dispatch) - Manage security incidents.
+- [Draft](https://draft-publish.com) - CLI-first paid article publishing platform with 6.6% fee, Stripe Connect payouts, and SSH key auth. ([Source Code](https://github.com/s-saga011/draft-publish)) `MIT` `Python`
 - FastAPI CRUD Example:
   - [Async flavor](https://github.com/testdrivenio/fastapi-crud-async)
   - [Sync Flavor](https://github.com/testdrivenio/fastapi-crud-sync)
