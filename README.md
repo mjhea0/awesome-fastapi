@@ -61,6 +61,7 @@
 - [FastAPI Security](https://github.com/jacobsvante/fastapi-security) - Implements authentication and authorization as dependencies in FastAPI.
 - [FastAPI Simple Security](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
 - [FastAPI Users](https://github.com/fastapi-users/fastapi-users) - Account management, authentication, authorization.
+- [scalekit-sdk-python](https://github.com/scalekit-inc/scalekit-sdk-python) - Official Python client for Scalekit (SAML/OIDC SSO, SCIM, OAuth 2.1, Agent Auth, MCP); use with FastAPI for B2B and AI/agent workloads.
 
 ### CyberSecurity
 
