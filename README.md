@@ -6,6 +6,7 @@
 
 [FastAPI](https://fastapi.tiangolo.com/) is a modern, high-performance, batteries-included Python web framework that's perfect for building RESTful APIs.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for FastAPI-based multi-agent orchestration, automated API management, and service coordination. MIT licensed.
 ## Contents
 
 - [Third-Party Extensions](#third-party-extensions)
