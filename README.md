@@ -131,6 +131,7 @@
 
 ### Utils
 
+- [Agent Brain](https://github.com/kaderosio/agent-brain) - 7-layer cognitive memory system for AI agents with perception gating, forgetting curves, and predictive alerts. No LLM required.
 - [Apitally](https://github.com/apitally/apitally-py) - API analytics, monitoring, and request logging for FastAPI.
 - [ASGI Correlation ID](https://github.com/snok/asgi-correlation-id) - Request ID logging middleware.
 - [FastAPI Cache](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
