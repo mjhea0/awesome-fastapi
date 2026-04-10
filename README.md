@@ -243,6 +243,7 @@
 - [Google App Engine](https://cloud.google.com/appengine)
 - [Heroku](https://www.heroku.com/) ([Step-by-step tutorial](https://tutlinks.com/create-and-deploy-fastapi-app-to-heroku/), [ML model on Heroku tutorial](https://testdriven.io/blog/fastapi-machine-learning/))
 - [Microsoft Azure App Service](https://azure.microsoft.com/en-us/products/app-service/)
+- [SnapDeploy](https://snapdeploy.dev) - Docker-native container hosting with free tier. Auto-detects FastAPI and configures uvicorn. GitHub auto-deploy on push.
 
 ### IaaS
 
