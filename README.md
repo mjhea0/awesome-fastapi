@@ -300,6 +300,7 @@ Compute:
 
 ### Open Source Projects
 
+- [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) - Open-source construction cost estimation with BOQ management, CAD/BIM takeoff (RVT/IFC/DWG/DGN), AI-powered estimation, 4D/5D planning, and 55,000+ cost items across 20 regional standards. AGPL-3.0.
 - [Astrobase](https://github.com/anthonycorletti/astrobase) - Simple, fast, and secure deployments anywhere.
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 - [Bitcart](https://github.com/bitcart/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
