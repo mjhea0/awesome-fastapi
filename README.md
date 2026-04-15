@@ -307,6 +307,7 @@ Compute:
 - [Bunnybook](https://github.com/pietrobassi/bunnybook) - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
 - [Coronavirus-tg-api](https://github.com/egbakou/coronavirus-tg-api) - API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak.
 - [Dispatch](https://github.com/Netflix/dispatch) - Manage security incidents.
+- [FreeFile ITR](https://github.com/rohitthink/freefile) - Free, privacy-first income tax return filing app for Indian freelancers. FastAPI backend with bank statement parsers, tax computation engine, and Playwright-based filing automation. Packaged with Next.js frontend and Tauri desktop shell.
 - FastAPI CRUD Example:
   - [Async flavor](https://github.com/testdrivenio/fastapi-crud-async)
   - [Sync Flavor](https://github.com/testdrivenio/fastapi-crud-sync)
