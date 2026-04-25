@@ -300,6 +300,7 @@ Compute:
 
 ### Open Source Projects
 
+- [Bible School LMS](https://github.com/ArVaViT/biblie-school) - Free, open-source learning management system for Bible schools and nonprofits, built with FastAPI, React, Supabase, and deployed on Vercel.
 - [Astrobase](https://github.com/anthonycorletti/astrobase) - Simple, fast, and secure deployments anywhere.
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 - [Bitcart](https://github.com/bitcart/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
