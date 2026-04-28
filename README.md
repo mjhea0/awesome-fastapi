@@ -124,6 +124,7 @@
 - [Manage FastAPI](https://github.com/ycd/manage-fastapi) - CLI tool for generating and managing FastAPI projects.
 - [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) - Automatic [MessagePack](https://msgpack.org/) content negotiation.
 - [python-cqrs](https://github.com/pypatterns/python-cqrs) - Event-Driven Architecture Framework with CQRS, Transaction Outbox, Saga orchestration, seamless FastAPI/FastStream integration.
+- [tracemaid](https://github.com/karthyick/tracemaid) - Auto-generate Mermaid call graphs from OpenTelemetry traces. Visualizes FastAPI request paths, async chains, and LLM agent flows from existing OTel spans.
 
 ### Email
 
