@@ -300,6 +300,7 @@ Compute:
 
 ### Open Source Projects
 
+- [AgentGate](https://agentgate.sh) - Open-source platform to deploy AI agents in one command and monetize them via Stripe. Implements MCP, A2A, and UCP. Built with FastAPI, SQLAlchemy, Alembic, and Docker.
 - [Astrobase](https://github.com/anthonycorletti/astrobase) - Simple, fast, and secure deployments anywhere.
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 - [Bitcart](https://github.com/bitcart/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
