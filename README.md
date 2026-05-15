@@ -299,7 +299,7 @@ Compute:
 - [uvicorn-poetry](https://github.com/max-pfeiffer/uvicorn-poetry) - Docker image with Uvicorn ASGI server for running Python web applications on Kubernetes. Uses Poetry for managing dependencies and setting up a virtual environment. Supports AMD64 and ARM64 CPU architectures.
 
 ### Open Source Projects
-
+- [Anime Tracker](https://github.com/lucasusamentiaga/anime-tracker) - Self-hosted desktop app to manage your anime list with statistics, notifications, mobile WiFi access via PWA, weekly calendar, 4 languages and 8 search sources (AniList, MAL, Kitsu, Crunchyroll...). Python + FastAPI + SQLite.
 - [Astrobase](https://github.com/anthonycorletti/astrobase) - Simple, fast, and secure deployments anywhere.
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 - [Bitcart](https://github.com/bitcart/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
