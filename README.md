@@ -105,9 +105,11 @@
 
 #### Other Tools
 
+- [Schemato](https://www.schemato.top/json-schema-to-pydantic) - Browser-only tool for generating Pydantic v2 models from JSON Schema, OpenAPI, SQL DDL, GraphQL SDL, Prisma, Mongoose, Protobuf, Avro, TypeScript, and JSON.
 - [Pydantic-SQLAlchemy](https://github.com/tiangolo/pydantic-sqlalchemy) - Convert SQLAlchemy models to [Pydantic](https://docs.pydantic.dev/latest/) models.
 - [FastAPI-CamelCase](https://nf1s.github.io/fastapi-camelcase/) - CamelCase JSON support for FastAPI utilizing [Pydantic](https://docs.pydantic.dev/latest/).
   - [CamelCase Models with FastAPI and Pydantic](https://medium.com/analytics-vidhya/camel-case-models-with-fast-api-and-pydantic-5a8acb6c0eee) - Accompanying blog post from the author of the extension.
+  
  
 ### Dependency Injection
 - [Wireup](https://github.com/maldoinc/wireup) - Inject dependencies with zero runtime overhead in FastAPI; Share dependencies across web, cli or other interfaces.
