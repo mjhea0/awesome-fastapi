@@ -301,6 +301,7 @@ Compute:
 ### Open Source Projects
 
 - [Astrobase](https://github.com/anthonycorletti/astrobase) - Simple, fast, and secure deployments anywhere.
+- [awaithumans](https://github.com/awaithumans/awaithumans) - HITL primitive for AI agents. A FastAPI + SQLModel server pairs with a one-function-call SDK (`await_human` / `awaitHuman`) so an agent can block on a human's decision via Slack, email, or a built-in dashboard, then resume with the typed Pydantic response. Apache 2.0; Python + TypeScript SDKs; durable adapters for Temporal and LangGraph.
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 - [Bitcart](https://github.com/bitcart/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
 - [Bali](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
