@@ -166,6 +166,7 @@
 - [Starlette Prometheus](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
 - [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses.
 - [Pydantic Resolve](https://github.com/allmonday/pydantic-resolve) -  Turns pydantic class into a powerful composable computing container by introducing resolve and post-process hooks.
+- [seo-sidecar](https://github.com/Janady13/seo-sidecar) - FastAPI service that receives Schema.org JSON-LD pushes from upstream and serves them to nginx via SSI. Zero crons, zero site file changes, always fresh. Comes with Python + Go push clients and a systemd unit.
 
 ## Resources
 
