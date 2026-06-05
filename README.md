@@ -9,6 +9,7 @@
 ## Contents
 
 - [Third-Party Extensions](#third-party-extensions)
+- [BeatSync PRO](https://beatsyncpro.ai) - 40,000+ royalty-free AI-generated music video clips organized by BPM. Freemium.
   - [Admin](#admin)
   - [Auth](#auth)
   - [CyberSecurity](#cybersecurity)
