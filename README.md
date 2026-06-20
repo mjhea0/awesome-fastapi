@@ -111,6 +111,7 @@
  
 ### Dependency Injection
 - [Wireup](https://github.com/maldoinc/wireup) - Inject dependencies with zero runtime overhead in FastAPI; Share dependencies across web, cli or other interfaces.
+- [modern-di](https://github.com/modern-python/modern-di) - Dependency injection framework with IoC container and scopes, with a [FastAPI integration](https://github.com/modern-python/modern-di-fastapi).
 
 ### Developer Tools
 
