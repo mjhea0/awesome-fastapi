@@ -156,6 +156,7 @@
 - [FastAPI Shield](https://github.com/jymchng/fastapi-shield) - General FastAPI library for writing any generic endpoint decorators capable of lazy dependencies injection.
 - [FastAPI SocketIO](https://github.com/pyropy/fastapi-socketio) - Easy integration for FastAPI and SocketIO.
 - [FastAPI Utilities](https://github.com/fastapiutils/fastapi-utils) - Reusable utilities: class-based views, response inferring router, periodic tasks, timing middleware, SQLAlchemy session, OpenAPI spec simplification.
+- [FastAPI Viewsets](https://github.com/svalench/fastapi_viewsets) - Django REST Framework-inspired ViewSets for FastAPI, enabling class-based CRUD endpoint organization with automatic route registration.
 - [FastAPI Websocket Pub/Sub](https://github.com/authorizon/fastapi_websocket_pubsub) - The classic pub/sub pattern made easily accessible and scalable over the web and across your cloud in realtime.
 - [FastAPI Websocket RPC](https://github.com/authorizon/fastapi_websocket_rpc) - RPC (bidirectional JSON RPC) over Websockets made easy, robust, and production ready.
 - [OpenTelemetry FastAPI Instrumentation](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-fastapi) - Library provides automatic and manual instrumentation of FastAPI web frameworks, instrumenting http requests served by applications utilizing the framework.
