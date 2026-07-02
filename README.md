@@ -305,6 +305,7 @@ Compute:
 
 ### Open Source Projects
 
+- [AI Usage Ball](https://github.com/aiusageball/ai-usage-ball) - Desktop app to track AI coding tool quotas, demonstrating FastAPI used as a local sidecar backend.
 - [Astrobase](https://github.com/anthonycorletti/astrobase) - Simple, fast, and secure deployments anywhere.
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 - [Bitcart](https://github.com/bitcart/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
