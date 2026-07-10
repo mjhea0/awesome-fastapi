@@ -304,6 +304,7 @@ Compute:
 - [uvicorn-poetry](https://github.com/max-pfeiffer/uvicorn-poetry) - Docker image with Uvicorn ASGI server for running Python web applications on Kubernetes. Uses Poetry for managing dependencies and setting up a virtual environment. Supports AMD64 and ARM64 CPU architectures.
 
 ### Open Source Projects
+- [BDE Score™](https://github.com/hbhqq9/bde-score) - Multi-factor stock analysis API with FastAPI, covering US/HK/A-share markets.
 
 - [Astrobase](https://github.com/anthonycorletti/astrobase) - Simple, fast, and secure deployments anywhere.
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
