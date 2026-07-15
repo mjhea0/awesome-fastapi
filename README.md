@@ -334,6 +334,7 @@ Compute:
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API.
 - [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 - [Universities](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
+- [System Design Implementations](https://github.com/Saishekar17/system-design-python) - URL shortener, rate limiter, load balancer, pub-sub queue, and LRU cache built with FastAPI and pytest. Each component has full test coverage.
 
 ## Sponsors
 
