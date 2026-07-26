@@ -327,6 +327,7 @@ Compute:
 - [OPAL (Open Policy Administration Layer)](https://github.com/authorizon/opal) - Real-time authorization updates on top of Open-Policy; built with FastAPI, Typer, and FastAPI WebSocket pub/sub.
 - [OSBot-Fast-API](https://github.com/owasp-sbot/OSBot-Fast-API) - Type-safe FastAPI wrapper that provides middleware, HTTP event tracking, AWS Lambda integration, test utilities, and auto-conversion between Type_Safe, Pydantic, and dataclasses.
 - [Polar](https://github.com/polarsource/polar) - A funding and monetization platform for developers, built with FastAPI, SQLAlchemy, Alembic, and Arq.
+- [Production AI Document Backend](https://github.com/vinsblack/production-ai-document-backend) - Asynchronous invoice extraction built so a job cannot be silently lost: FastAPI, ARQ, PostgreSQL as the source of truth, a recoverable Redis handoff, terminal-vs-retryable failure classification, and CI that round-trips Alembic migrations against real PostgreSQL and Redis.
 - [RealWorld Example App - mongo](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
 - [RealWorld Example App - postgres](https://github.com/nsidnev/fastapi-realworld-example-app)
 - [redis-streams-fastapi-chat](https://github.com/leonh/redis-streams-fastapi-chat) - A simple Redis Streams backed chat app using Websockets, Asyncio and FastAPI/Starlette.
