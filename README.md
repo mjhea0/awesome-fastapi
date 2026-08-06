@@ -171,6 +171,7 @@
 - [Starlette Prometheus](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
 - [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses.
 - [Pydantic Resolve](https://github.com/KLR-Pattern/pydantic-resolve) -  Turns pydantic class into a powerful composable computing container by introducing resolve and post-process hooks.
+- [interlock](https://github.com/bagowix/interlock) - Circuit breaker for outbound calls with automatic 503 + Retry-After; trips on failure rate and latency, sync and async in one class.
 
 ## Resources
 
