@@ -334,6 +334,7 @@ Compute:
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API.
 - [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 - [Universities](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
+- [Open LLM](https://github.com/MilanSirko/Open-LLM) - One API endpoint giving you access to 100+ free models across multiple top providers.
 
 ## Sponsors
 
