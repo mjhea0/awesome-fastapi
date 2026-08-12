@@ -66,6 +66,7 @@
 ### CyberSecurity
 
 - [FastAPI Guard](https://github.com/rennf93/fastapi-guard) - Rate Limiting, Automatically Ban IPs, Penetration Attack Detection, Whitelist/blacklist (countries, IPs, Cloud Providers), User Agent Filtering, Geolocation, Redis integration for persistence, and more.
+- [Nemesis Shield](https://github.com/eobi/nemesis_shield_sdks) - Positive-security (allow-list) WAF middleware: it learns your app's normal behavior and blocks the deviations a signature WAF misses (IDOR/BOLA, broken auth, business-logic abuse). One line, open-source SDKs (MIT), free tier.
 - [secure](https://github.com/TypeError/secure) - Define and apply HTTP security headers consistently in FastAPI apps using ASGI middleware and a single configuration object.
 
 ### Databases
