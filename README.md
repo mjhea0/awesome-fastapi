@@ -276,6 +276,7 @@ Compute:
 
 ### Boilerplate
 
+- [FastAPI AI image generation starter](https://github.com/ImageAPIAI/fastapi-image-bot) - A lightweight, zero-config FastAPI starter template for generating AI images with one-click deployment.
 - [Full Stack FastAPI and PostgreSQL - Base Project Generator](https://github.com/fastapi/full-stack-fastapi-template) - Full Stack FastAPI Template
 , which includes FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS, and more (developed by the creator of FastAPI, [Sebastián Ramírez](https://github.com/tiangolo)).
 - [FastAPI and Tortoise ORM](https://github.com/prostomarkeloff/fastapi-tortoise) - Powerful but simple template for web APIs w/ FastAPI (as web framework) and Tortoise-ORM (for working via database without headache).
