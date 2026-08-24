@@ -304,6 +304,8 @@ Compute:
 - [uvicorn-poetry](https://github.com/max-pfeiffer/uvicorn-poetry) - Docker image with Uvicorn ASGI server for running Python web applications on Kubernetes. Uses Poetry for managing dependencies and setting up a virtual environment. Supports AMD64 and ARM64 CPU architectures.
 
 ### Open Source Projects
+- [DECEPTRIX](https://github.com/narain-karti/DECEPTRIX) - Explainable multi-modal AI forensic intelligence platform built with FastAPI, PyTorch, MediaPipe, Celery, and Next.js.
+
 
 - [Astrobase](https://github.com/anthonycorletti/astrobase) - Simple, fast, and secure deployments anywhere.
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
