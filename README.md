@@ -63,6 +63,7 @@
 - [FastAPI Simple Security](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
 - [FastAPI Users](https://github.com/fastapi-users/fastapi-users) - Account management, authentication, authorization.
 - [FastAPI Zitadel Auth](https://github.com/cleanenergyexchange/fastapi-zitadel-auth) - OAuth2 using the IAM platform [Zitadel](https://github.com/zitadel/zitadel).
+- [pydantic-jwt](https://github.com/dmi03/pydantic-jwt) - Declare JWT tokens as Pydantic models; issuing, claim validation and signature verification from one class, with a [FastAPI guide](https://pydantic-jwt.dmi03.com/integrations/fastapi/).
 
 ### CyberSecurity
 
