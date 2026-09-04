@@ -129,6 +129,7 @@
 - [Manage FastAPI](https://github.com/ycd/manage-fastapi) - CLI tool for generating and managing FastAPI projects.
 - [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) - Automatic [MessagePack](https://msgpack.org/) content negotiation.
 - [python-cqrs](https://github.com/pypatterns/python-cqrs) - Event-Driven Architecture Framework with CQRS, Transaction Outbox, Saga orchestration, seamless FastAPI/FastStream integration.
+- [AegisOS](https://github.com/Brajesh9373/AegisOs) - Enterprise AI Workforce OS with governance, memory, knowledge graphs, and human-in-the-loop approvals.
 
 ### Email
 
