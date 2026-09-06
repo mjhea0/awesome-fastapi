@@ -154,6 +154,7 @@
 - [FastAPI MQTT](https://github.com/sabuhish/fastapi-mqtt) - An extension for the MQTT protocol.
 - [FastAPI Opentracing](https://github.com/wesdu/fastapi-opentracing) - Opentracing middleware and database tracing support for FastAPI.
 - [FastAPI Pagination](https://github.com/uriyyo/fastapi-pagination) - Pagination for FastAPI.
+- [FastAPI Readyz](https://github.com/peroksai2-arch/fastapi-readyz) - Liveness, readiness and dependency health checks with concurrent probes, per-probe timeouts, cached reports and degraded vs unhealthy semantics.
 - [FastAPI Plugins](https://github.com/madkote/fastapi-plugins) - Redis and Scheduler plugins.
 - [FastAPI ServiceUtils](https://github.com/skallfass/fastapi_serviceutils) - Generator for creating API services.
 - [FastAPI Shield](https://github.com/jymchng/fastapi-shield) - General FastAPI library for writing any generic endpoint decorators capable of lazy dependencies injection.
