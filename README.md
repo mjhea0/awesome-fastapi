@@ -333,6 +333,7 @@ Compute:
 - [RealWorld Example App - mongo](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
 - [RealWorld Example App - postgres](https://github.com/nsidnev/fastapi-realworld-example-app)
 - [redis-streams-fastapi-chat](https://github.com/leonh/redis-streams-fastapi-chat) - A simple Redis Streams backed chat app using Websockets, Asyncio and FastAPI/Starlette.
+- [SixSentences](https://github.com/SixSentences/sixsentences) - Self-hostable research workspace for literature search, evidence screening, data analysis, and writing; a FastAPI service with a background worker, PostgreSQL, and a Next.js front end.
 - [Sprites as a service](https://github.com/ljvmiranda921/sprites-as-a-service) - Generate your personal 8-bit avatars using Cellular Automata.
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API.
 - [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
