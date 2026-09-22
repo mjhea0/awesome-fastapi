@@ -129,6 +129,7 @@
 - [Manage FastAPI](https://github.com/ycd/manage-fastapi) - CLI tool for generating and managing FastAPI projects.
 - [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) - Automatic [MessagePack](https://msgpack.org/) content negotiation.
 - [python-cqrs](https://github.com/pypatterns/python-cqrs) - Event-Driven Architecture Framework with CQRS, Transaction Outbox, Saga orchestration, seamless FastAPI/FastStream integration.
+- [fastgen-cli](https://github.com/YIbaikaishui/fastgen-cli) - Nest-cli style module manager for FastAPI, shipped as a single Rust binary on PyPI: `fastgen new` scaffolds a best-practice project and `fastgen make module` generates vertical-slice modules with an auto-maintained registry. Zero runtime lock-in.
 
 ### Email
 
