@@ -323,6 +323,7 @@ Compute:
 - [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery) - Minimal example utilizing FastAPI and Celery with RabbitMQ for task queue, Redis for Celery backend, and Flower for monitoring the Celery tasks.
 - [FuturamaAPI](https://github.com/koldakov/futuramaapi) - A REST and GraphQL playground built with best practices, providing WebSockets, SSE, callbacks, secret messages, and more.
 - [JeffQL](https://github.com/yezz123/JeffQL/) - Simple authentication and login API using GraphQL and JWT.
+- [jevos](https://github.com/feder-cr/jev) - Self-hosted FastAPI server that answers yes/no questions about a piece of text (1B model, GGUF/llama.cpp, CPU-only), with an HTTP API compatible with TypeSafe's Jev SDK.
 - [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on FastAPI.
 - [Mailer](https://github.com/rclement/mailer) - Dead-simple mailer micro-service for static websites.
 - [Markdown-Videos](https://github.com/Snailedlt/Markdown-Videos) - API for generating thumbnails to embed into your markdown content.
