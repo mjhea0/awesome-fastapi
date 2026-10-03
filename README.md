@@ -171,6 +171,7 @@
 - [Starlette OpenTracing](https://github.com/acidjunk/starlette-opentracing) - Opentracing support for Starlette and FastAPI.
 - [Starlette Prometheus](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
 - [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses.
+- [pydantic-brasil](https://github.com/Luan1Schons/pydantic-brasil) - Native Pydantic v2 types and validators for Brazilian data — CPF, CNPJ, CEP, NF-e access key (DF-e), Bank Slip (Boleto FEBRABAN), Correios tracking (S10/UPU), GTIN/EAN, IBAN-BR, CNH, Mercosul license plate, PIS, and more.
 - [Pydantic Resolve](https://github.com/KLR-Pattern/pydantic-resolve) -  Turns pydantic class into a powerful composable computing container by introducing resolve and post-process hooks.
 
 ## Resources
