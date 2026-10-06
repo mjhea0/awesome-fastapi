@@ -298,6 +298,7 @@ Compute:
 - [Full Stack FastAPI and MongoDB - Base Project Generator](https://github.com/mongodb-labs/full-stack-fastapi-mongodb) - Full stack, modern web application generator, which includes FastAPI, MongoDB, Docker, Celery, React frontend, automatic HTTPS and more.
 - [Uvicorn Poetry FastAPI Project Template](https://github.com/max-pfeiffer/uvicorn-poetry-fastapi-project-template) - Cookiecutter project template for starting a FastAPI application. Runs in a Docker container with Uvicorn ASGI server on Kubernetes. Supports AMD64 and ARM64 CPU architectures.
 - [FastAPI Agent Blueprint](https://github.com/Mr-DooSun/fastapi-agent-blueprint) - DDD layered template where generic base classes give async CRUD with no boilerplate, domains self-register on discovery, and pre-commit hooks block cross-layer imports at commit time.
+- [Full-Stack AI Agent Template](https://github.com/vstorm-co/full-stack-ai-agent-template) - Project generator for AI agent apps with FastAPI and Next.js: a choice of agent frameworks (Pydantic AI, LangChain, LangGraph and others), WebSocket streaming chat, RAG, auth, Celery and Docker.
 
 ### Docker Images
 
