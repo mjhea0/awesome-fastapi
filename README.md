@@ -126,6 +126,7 @@
 - [FastAPI Profiler](https://github.com/sunhailin-Leo/fastapi_profiler) - A FastAPI Middleware of joerick/pyinstrument to check your service performance.
 - [FastAPI Versioning](https://github.com/DeanWay/fastapi-versioning) - API versioning.
 - [Jupyter Notebook REST API](https://github.com/Invictify/Jupter-Notebook-REST-API) - Run your Jupyter notebooks as RESTful API endpoints.
+- [Keploy](https://github.com/keploy/keploy) - Record API traffic from a FastAPI app and replay it as tests with auto-generated dependency mocks in isolated sandboxes.
 - [Manage FastAPI](https://github.com/ycd/manage-fastapi) - CLI tool for generating and managing FastAPI projects.
 - [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) - Automatic [MessagePack](https://msgpack.org/) content negotiation.
 - [python-cqrs](https://github.com/pypatterns/python-cqrs) - Event-Driven Architecture Framework with CQRS, Transaction Outbox, Saga orchestration, seamless FastAPI/FastStream integration.
