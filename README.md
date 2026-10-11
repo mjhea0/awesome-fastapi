@@ -41,6 +41,7 @@
 
 ### Admin
 
+- [adminsite](https://github.com/nimaxin/adminsite) - Admin panel for SQLAlchemy 2.0 models that mounts into FastAPI, Starlette or Litestar.
 - [FastAdmin](https://github.com/vsdudakov/fastadmin) - Easy-to-use admin dashboard for FastAPI (also Flask and Django), inspired by Django Admin.
 - [FastAPI Admin](https://github.com/fastapi-admin/fastapi-admin) - Functional admin panel that provides a user interface for performing CRUD operations on your data. Currently only works with the Tortoise ORM.
 - [FastAPI Amis Admin](https://github.com/amisadmin/fastapi-amis-admin) - A high-performance, efficient and easily extensible FastAPI admin framework.
