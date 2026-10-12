@@ -115,6 +115,7 @@
 ### Dependency Injection
 
 - [modern-di](https://github.com/modern-python/modern-di) - Dependency injection framework with IoC container and scopes, with a [FastAPI integration](https://github.com/modern-python/modern-di-fastapi).
+- [nuke-di](https://github.com/troyan-dy/nuke-di) - Type-hint based DI with an async client lifecycle: path operations take clients by type hint without `Depends`, every client connects concurrently on startup and disconnects on shutdown, and `mock()` / `override()` replace them in tests.
 - [Wireup](https://github.com/maldoinc/wireup) - Inject dependencies with zero runtime overhead in FastAPI; Share dependencies across web, cli or other interfaces.
 
 ### Developer Tools
