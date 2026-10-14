@@ -138,6 +138,7 @@
 
 - [Apitally](https://github.com/apitally/apitally-py) - API analytics, monitoring, and request logging for FastAPI.
 - [ASGI Correlation ID](https://github.com/snok/asgi-correlation-id) - Request ID logging middleware.
+- [Bretzel](https://github.com/JeanHoccart/bretzel) - Server-driven UI framework on FastAPI: typed state, targeted HTML updates over HTMX and SSE, 100+ components, no JavaScript build step.
 - [FastAPI Cache](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
 - [FastAPI Cache](https://github.com/long2ice/fastapi-cache) - A tool to cache FastAPI response and function results, with support for Redis, Memcached, DynamoDB, and in-memory backends.
 - [FastAPI Chameleon](https://github.com/mikeckennedy/fastapi-chameleon) - Adds integration of the Chameleon template language to FastAPI.
