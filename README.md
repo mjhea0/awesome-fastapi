@@ -53,7 +53,7 @@
 
 - [AuthX](https://github.com/yezz123/AuthX) - Customizable Authentications and Oauth2 management for FastAPI.
 - [FastAPI Auth](https://github.com/dmontagu/fastapi-auth) - Pluggable auth that supports the OAuth2 Password Flow with JWT access and refresh tokens.
-- [FastAPI Azure Auth](https://github.com/Intility/fastapi-azure-auth) - Azure AD authentication for your APIs with single and multi tenant support.
+- [FastAPI Azure Auth](https://github.com/vibber-ai/fastapi-azure-auth) - Azure AD authentication for your APIs with single and multi tenant support.
 - [FastAPI Casbin Auth](https://github.com/apache/casbin-python-fastapi-casbin-auth) - Authorization which supports various access control models like RBAC, ReBAC and ABAC through Casbin.
 - [FastAPI Cloud Auth](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
 - [FastAPI Login](https://github.com/maxrdu/fastapi_login) - Account management and authentication (based on [Flask-Login](https://github.com/maxcountryman/flask-login)).
@@ -66,7 +66,7 @@
 
 ### CyberSecurity
 
-- [FastAPI Guard](https://github.com/rennf93/fastapi-guard) - Rate Limiting, Automatically Ban IPs, Penetration Attack Detection, Whitelist/blacklist (countries, IPs, Cloud Providers), User Agent Filtering, Geolocation, Redis integration for persistence, and more.
+- [FastAPI Guard](https://github.com/Guard-Core/fastapi-guard) - Rate Limiting, Automatically Ban IPs, Penetration Attack Detection, Whitelist/blacklist (countries, IPs, Cloud Providers), User Agent Filtering, Geolocation, Redis integration for persistence, and more.
 - [secure](https://github.com/TypeError/secure) - Define and apply HTTP security headers consistently in FastAPI apps using ASGI middleware and a single configuration object.
 
 ### Databases
@@ -245,7 +245,7 @@
 (Platforms-as-a-Service)
 
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
-- [Fly](https://fly.io) ([tutorial](https://fly.io/docs/python/frameworks/fastapi/), [Deploy from a Git repo](https://github.com/fly-apps/hello-fastapi))
+- [Fly](https://fly.io) ([tutorial](https://docs.fly.io/python/frameworks/fastapi), [Deploy from a Git repo](https://github.com/fly-apps/hello-fastapi))
 - [Google App Engine](https://cloud.google.com/appengine)
 - [Heroku](https://www.heroku.com/) ([Step-by-step tutorial](https://tutlinks.com/create-and-deploy-fastapi-app-to-heroku/), [ML model on Heroku tutorial](https://testdriven.io/blog/fastapi-machine-learning/))
 - [Microsoft Azure App Service](https://azure.microsoft.com/en-us/products/app-service/)
