@@ -119,6 +119,7 @@
 
 ### Developer Tools
 
+- [BESSER](https://github.com/BESSER-PEARL/BESSER) - Low-code platform that generates a FastAPI backend (SQLAlchemy, Pydantic) and React frontend from a UML class model drawn in a web editor or in Python.
 - [FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator) - Create a FastAPI app from an OpenAPI file, enabling schema-driven development.
 - [FastAPI Client Generator](https://github.com/dmontagu/fastapi_client) - Generate a mypy- and IDE-friendly API client from an OpenAPI spec.
 - [FastAPI Cruddy Framework](https://github.com/mdconaway/fastapi-cruddy-framework) - A companion library to FastAPI designed to bring the development productivity of Ruby on Rails, Ember.js or Sails.js to the FastAPI ecosystem.
