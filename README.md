@@ -308,6 +308,7 @@ Compute:
 
 ### Open Source Projects
 
+- [AgenticOS](https://github.com/vstorm-co/agenticos) - Open-source, self-hosted workspace for company AI agents with a FastAPI backend, PostgreSQL with pgvector and a Next.js console.
 - [Astrobase](https://github.com/anthonycorletti/astrobase) - Simple, fast, and secure deployments anywhere.
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 - [Bitcart](https://github.com/bitcart/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
