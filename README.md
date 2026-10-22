@@ -185,7 +185,7 @@
 ### External Resources
 
 - [TestDriven.io FastAPI](https://testdriven.io/blog/topics/fastapi/) - Multiple FastAPI-specific articles that focus on developing and testing production-ready RESTful APIs, serving up machine learning models, and more.
-
+- [DevBoost Utility Suite](https://rapidapi.com/optimiziapy-cloud/api/devboost-utility-suite) - Production-ready FastAPI utilities for AI agents & developers: Prompt Injection Guardrails, Web Metadata Scraper, Email Validator, and Sentiment Analysis.
 ### Podcasts
 
 - [Build The Next Generation Of Python Web Applications With FastAPI](https://www.pythonpodcast.com/fastapi-web-application-framework-episode-259/) - In this episode of [Podcast Init](https://www.pythonpodcast.com/), the creator of FastAPI, [Sebastián Ramirez](https://tiangolo.com/), shares his motivations for building FastAPI and how it works under the hood.
