@@ -311,6 +311,7 @@ Compute:
 - [Astrobase](https://github.com/anthonycorletti/astrobase) - Simple, fast, and secure deployments anywhere.
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 - [Bitcart](https://github.com/bitcart/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
+- [Bybit Smart Piggybank](https://github.com/markankamaransheogarat-sys/bybit-smart-piggybank) - Autonomous AI-native portfolio accumulation engine for Bybit Spot with real-time FastAPI dashboard, algorithmic dip-buying, risk management, and MCP operator support.
 - [Bali](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
 - [Bunnybook](https://github.com/pietrobassi/bunnybook) - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
 - [Coronavirus-tg-api](https://github.com/egbakou/coronavirus-tg-api) - API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak.
