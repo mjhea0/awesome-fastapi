@@ -248,6 +248,7 @@
 - [Fly](https://fly.io) ([tutorial](https://fly.io/docs/python/frameworks/fastapi/), [Deploy from a Git repo](https://github.com/fly-apps/hello-fastapi))
 - [Google App Engine](https://cloud.google.com/appengine)
 - [Heroku](https://www.heroku.com/) ([Step-by-step tutorial](https://tutlinks.com/create-and-deploy-fastapi-app-to-heroku/), [ML model on Heroku tutorial](https://testdriven.io/blog/fastapi-machine-learning/))
+- [Light Cloud](https://light-cloud.com) ([FastAPI guide](https://docs.light-cloud.com/platform/frameworks/fastapi), [Deploy from a Git repo](https://github.com/light-cloud-com/tutorial-fastapi-api))
 - [Microsoft Azure App Service](https://azure.microsoft.com/en-us/products/app-service/)
 
 ### IaaS
