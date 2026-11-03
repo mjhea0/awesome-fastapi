@@ -66,6 +66,7 @@
 
 ### CyberSecurity
 
+- [Corvin](https://github.com/codesbykhairannoor/corvin) - Cognitive boundary defense, anti-sycophancy, and grudge-memory ASGI middleware and route guard for sovereign AI agents.
 - [FastAPI Guard](https://github.com/rennf93/fastapi-guard) - Rate Limiting, Automatically Ban IPs, Penetration Attack Detection, Whitelist/blacklist (countries, IPs, Cloud Providers), User Agent Filtering, Geolocation, Redis integration for persistence, and more.
 - [secure](https://github.com/TypeError/secure) - Define and apply HTTP security headers consistently in FastAPI apps using ASGI middleware and a single configuration object.
 
