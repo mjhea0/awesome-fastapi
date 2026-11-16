@@ -172,6 +172,7 @@
 - [Starlette Prometheus](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
 - [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses.
 - [Pydantic Resolve](https://github.com/KLR-Pattern/pydantic-resolve) -  Turns pydantic class into a powerful composable computing container by introducing resolve and post-process hooks.
+- [imgproxykit](https://github.com/kondratevdev/imgproxykit) - Typed imgproxy URL builder with FastAPI dependency injection, signed URLs, reusable transformations, and named image variants.
 
 ## Resources
 
