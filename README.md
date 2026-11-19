@@ -63,6 +63,7 @@
 - [FastAPI Simple Security](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
 - [FastAPI Users](https://github.com/fastapi-users/fastapi-users) - Account management, authentication, authorization.
 - [FastAPI Zitadel Auth](https://github.com/cleanenergyexchange/fastapi-zitadel-auth) - OAuth2 using the IAM platform [Zitadel](https://github.com/zitadel/zitadel).
+- [OL-Auth](https://github.com/kubdrabik/olauth) - Zero-config, one-line email/password authentication engine with session cookies, email verification, and password reset.
 
 ### CyberSecurity
 
